@@ -1,10 +1,17 @@
 """Intellectus: hybrid analytics over the supplied police case database."""
 from __future__ import annotations
 
-import json, math, os, re, sqlite3, uuid
+import json, math, os, re, sqlite3, sys, uuid
 from contextlib import contextmanager
 from pathlib import Path
 from typing import Any
+
+# Catalyst AppSail deploys the application bundle directly. Keep optional
+# bundled dependencies importable there while preserving normal virtualenv use.
+ROOT = Path(__file__).parent
+RUNTIME_DEPS = ROOT / "vendor"
+if RUNTIME_DEPS.exists():
+    sys.path.insert(0, str(RUNTIME_DEPS))
 
 import httpx
 from dotenv import load_dotenv
@@ -14,13 +21,16 @@ from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-ROOT = Path(__file__).parent
 load_dotenv(ROOT / '.env')
 SOURCE_DB = ROOT / "crime_analytics.sqlite3"
 INDEX_DB = ROOT / "analytics_index.sqlite3"  # derived index; source database is never modified
 # Built assets of the React (Vite) frontend live in a sibling project; this is only ever
 # read for static serving and never affects any retrieval/analytics logic below.
+# During local development the build lives in the sibling frontend project.
+# The Catalyst AppSail bundle includes a copy in backend/frontend_dist instead.
 FRONTEND_DIST = ROOT.parent / "frontend" / "dist"
+if not FRONTEND_DIST.exists():
+    FRONTEND_DIST = ROOT / "frontend_dist"
 app = FastAPI(title="Intellectus Crime Analytics API")
 # Needed so the Vite dev server (a different origin/port during development) can call
 # these APIs directly; harmless in production since the frontend is served same-origin.

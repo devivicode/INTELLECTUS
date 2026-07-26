@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Frontend build output
+frontend/dist/
+frontend/.vite/
+backend/frontend_dist/
+
+# Python virtual environments and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Runtime-generated application data
+backend/analytics_index.sqlite3
+backend/.runtime_deps/
+backend/vendor/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and coverage
+*.log
+catalyst-debug.log
+coverage/
+.coverage
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
