@@ -327,17 +327,6 @@ def index():
     if dist_index.exists(): return FileResponse(dist_index)
     return FileResponse(ROOT/'static'/'index.html')
 
-@app.get('/{full_path:path}')
-def spa_fallback(full_path: str):
-    """Serve any other top-level asset from the built frontend (favicon, manifest, etc.),
-    or fall back to index.html for client-side routes. Never matches /api/* or /static/*
-    because FastAPI resolves those explicit routes/mounts first."""
-    dist_index = FRONTEND_DIST / 'index.html'
-    if not dist_index.exists(): raise HTTPException(404, 'Frontend build not found')
-    candidate = FRONTEND_DIST / full_path
-    if candidate.is_file(): return FileResponse(candidate)
-    return FileResponse(dist_index)
-
 @app.get('/api/overview')
 def overview():
     with db() as con:
@@ -424,3 +413,14 @@ def search(q:str='', kind:str='ALL'):
         firs=con.execute("SELECT fir_id id, 'FIR' type, fir_id || ' · ' || crime_code || ' · ' || district label FROM fir_records WHERE fir_id LIKE ? OR crime_code LIKE ? OR district LIKE ? OR case_summary LIKE ? LIMIT 50",(like,like,like,like)).fetchall() if kind in ('ALL','FIR') else []
         people=con.execute("SELECT accused_id id, 'CRIMINAL' type, full_name label FROM criminals WHERE full_name LIKE ? OR aliases LIKE ? LIMIT 50",(like,like)).fetchall() if kind in ('ALL','CRIMINAL') else []
     return [dict(row) for row in [*firs,*people]]
+
+@app.get('/{full_path:path}')
+def spa_fallback(full_path: str):
+    """Serve frontend files and client-side routes after every API route has matched."""
+    dist_index = FRONTEND_DIST / 'index.html'
+    if not dist_index.exists():
+        raise HTTPException(404, 'Frontend build not found')
+    candidate = FRONTEND_DIST / full_path
+    if candidate.is_file():
+        return FileResponse(candidate)
+    return FileResponse(dist_index)
