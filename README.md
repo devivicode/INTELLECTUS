@@ -1,86 +1,158 @@
-# Intellectus — merged project
+# INTELLECTUS
 
-This combines:
+INTELLECTUS is a police case analytics web application. It combines a React dashboard with a FastAPI retrieval API over the supplied crime-record SQLite database. The application can run locally as separate frontend and backend servers, or as one FastAPI service on Zoho Catalyst AppSail.
 
-- **`backend/`** — the original FastAPI backend (`app.py`) with its retrieval, chat, and
-  analytics logic **unchanged**. Only two additive things were added: CORS middleware (so
-  the Vite dev server can call it) and static-file serving so it can host the new frontend's
-  production build.
-- **`frontend/`** — the new "KPS" React/Vite UI, now wired to the real backend instead of
-  mock data (see "What changed in the frontend" below).
+**Deployed application:** [INTELLECTUS on Zoho Catalyst AppSail](https://intellectus-web-50044248712.development.catalystappsail.in)
 
-## Running in development (two servers, hot reload)
+## Features
 
-Terminal 1 — backend:
-```bash
-cd backend
-python -m venv .venv && source .venv/bin/activate   # or the Windows equivalent
-pip install -r requirements.txt
-uvicorn app:app --reload --port 8000
+- **AI Assistant** — answers case-analysis questions using deterministic SQL, local semantic/vector retrieval, graph retrieval, and optional OpenRouter-assisted intent parsing and synthesis.
+- **Conversational context** — keeps a session-based conversation history; conversations can be cleared through the API.
+- **Evidence citations** — assistant answers return clickable FIR and criminal-profile citations that open the relevant records.
+- **Case search** — debounced search across FIRs and criminal profiles, with result filters for district, gravity, status, category, and date range.
+- **FIR case details** — shows incident information, people, complainants, victims, arrests, and chargesheet information where it exists in the source data.
+- **Criminal profiles** — presents identity details, past FIRs, arrest history, and repeat-case counts.
+- **Dashboard and analytics UI** — overview, analytics, administration, settings, OCR scanner, and voice-assistant screens.
+- **Responsive React UI** — dark mode, language controls, toasts, modals, PDF export utilities, and chart components.
+- **Production single-origin hosting** — FastAPI serves the built React application and `/api/*` endpoints from the same domain.
+
+## Architecture
+
+```mermaid
+flowchart LR
+    User["Browser"] --> UI["React + Vite frontend"]
+    UI -->|"/api/*"| API["FastAPI API"]
+    API --> Index["Derived analytics index\nanalytics_index.sqlite3"]
+    API --> Source["Source crime data\ncrime_analytics.sqlite3"]
+    API --> LLM["Optional OpenRouter API"]
+    API --> Build["Built React files"]
+    Build --> User
 ```
 
-Terminal 2 — frontend:
-```bash
+### Request flow
+
+1. In development, Vite serves the React UI on port `3000` and proxies `/api/*` to FastAPI on port `8000`.
+2. FastAPI creates a derived analytics index from the source crime database at startup.
+3. API routes query the source/index databases and return JSON to the frontend.
+4. For production, FastAPI serves the React build as static files, so the UI and API share one origin.
+
+## Technology stack
+
+| Area | Technology |
+| --- | --- |
+| Frontend | React 19, TypeScript, Vite 8, Tailwind CSS 4 |
+| State and UI | Redux Toolkit, React Redux, Recharts, Lucide React |
+| Backend | Python, FastAPI, Uvicorn, Pydantic, HTTPX |
+| Data | SQLite (`crime_analytics.sqlite3` and derived `analytics_index.sqlite3`) |
+| AI integration | Optional OpenRouter-compatible chat-completions API |
+| Hosting | Zoho Catalyst AppSail (Python 3.13) |
+
+## Repository layout
+
+```text
+INTELLECTUS/
+├── frontend/                 # React/Vite application
+│   ├── src/pages/            # Dashboard, search, assistant, settings, etc.
+│   └── src/utils/api.ts      # Typed API client
+├── backend/
+│   ├── app.py                # FastAPI application and retrieval logic
+│   ├── crime_analytics.sqlite3
+│   ├── requirements.txt
+│   ├── frontend_dist/        # AppSail copy of the production frontend build
+│   └── vendor/               # Linux Python dependencies bundled for AppSail
+├── .catalystrc               # Catalyst project connection
+└── .gitignore
+```
+
+## Run locally
+
+### Prerequisites
+
+- Node.js 22+ and npm
+- Python 3.10+
+- A Python virtual environment in `backend/.venv` with `backend/requirements.txt` installed
+
+### Development mode — two terminals
+
+Terminal 1, start the API from the `backend` directory:
+
+```powershell
+cd "C:\Users\vihan gaur\Desktop\KSP-2.5\INTELLECTUS\backend"
+.venv\Scripts\python.exe -c "from pathlib import Path; original=Path.exists; Path.exists=lambda self: False if self.name == 'vendor' else original(self); import uvicorn; uvicorn.run('app:app', host='127.0.0.1', port=8000)"
+```
+
+Terminal 2, start the frontend:
+
+```powershell
+cd "C:\Users\vihan gaur\Desktop\KSP-2.5\INTELLECTUS\frontend"
+npm.cmd ci
+npm.cmd run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000).
+
+The backend command intentionally skips `backend/vendor`, which contains Linux wheels for AppSail. It does not modify any files; the Windows virtual environment is used instead.
+
+If Vite shows `http proxy error` or `ECONNREFUSED` for `/api/*`, the backend is not running on port `8000`. Start Terminal 1 and keep it open.
+
+### Production-style local mode — one server
+
+Build the frontend:
+
+```powershell
+cd "C:\Users\vihan gaur\Desktop\KSP-2.5\INTELLECTUS\frontend"
+npm.cmd ci
+npm.cmd run build
+```
+
+Then run FastAPI from `backend` using the same local-safe command:
+
+```powershell
+cd "C:\Users\vihan gaur\Desktop\KSP-2.5\INTELLECTUS\backend"
+.venv\Scripts\python.exe -c "from pathlib import Path; original=Path.exists; Path.exists=lambda self: False if self.name == 'vendor' else original(self); import uvicorn; uvicorn.run('app:app', host='127.0.0.1', port=8000)"
+```
+
+Open [http://localhost:8000](http://localhost:8000).
+
+## Environment configuration
+
+The API works without an LLM key using local retrieval and heuristic intent routing. To enable the optional OpenRouter path, create `backend/.env`:
+
+```env
+OPENROUTER_API_KEY=your_key_here
+OPENROUTER_MODEL=openai/gpt-4o-mini
+```
+
+Never commit `.env` files or API keys.
+
+## Zoho Catalyst AppSail deployment
+
+The workspace is connected to Catalyst project `INTELLECTUS` (`51422000000016001`) and is deployed as the AppSail service `intellectus-web`.
+
+Deployment uses the `backend/` directory as the AppSail build path:
+
+- `backend/frontend_dist/` is the copy of `frontend/dist/` served by FastAPI in AppSail.
+- `backend/vendor/` contains Linux-compatible Python dependencies needed by the managed Python runtime.
+- Catalyst starts the service with `PYTHONPATH=vendor python3 -m uvicorn app:app` on `X_ZOHO_CATALYST_LISTEN_PORT`.
+
+To prepare and deploy a new frontend version:
+
+```powershell
 cd frontend
-npm install
-npm run dev
+npm.cmd ci
+npm.cmd run build
+
+Copy-Item -LiteralPath .\dist -Destination ..\backend\frontend_dist -Recurse -Force
+
+cd ..
+catalyst.cmd deploy appsail --name intellectus-web --build-path backend --stack python_3_13 --command "sh -c 'PYTHONPATH=vendor python3 -m uvicorn app:app --host 0.0.0.0 --port ${X_ZOHO_CATALYST_LISTEN_PORT}'" --dc in
 ```
 
-Open `http://localhost:3000`. The Vite dev server proxies every `/api/*` request to
-`http://localhost:8000` (see `frontend/vite.config.ts`), so the browser never needs CORS in
-practice — the backend's CORS middleware is just a safety net.
+After deploying, verify both the app URL and `/api/overview`.
 
-## Running as one server (production-style)
+## Current data and UI notes
 
-```bash
-cd frontend
-npm install
-npm run build            # outputs frontend/dist
-
-cd ../backend
-pip install -r requirements.txt
-uvicorn app:app --port 8000
-```
-
-Open `http://localhost:8000`. FastAPI now serves `frontend/dist` directly (built assets under
-`/assets`, `index.html` at `/`, plus a catch-all for any other static file) alongside every
-`/api/*` route. The old minimal test UI still lives at `/static/index.html` if you ever want to
-compare behavior against the original reference frontend.
-
-## What changed in the frontend
-
-The new frontend was previously fully mocked. It now talks to the real backend for the three
-areas you asked about:
-
-- **`src/utils/api.ts`** (new) — typed fetch client for `/api/chat`, `/api/fir/{id}`,
-  `/api/criminal/{id}`, `/api/search`, `/api/overview`, `/api/conversation/{id}`.
-- **`src/utils/adapters.ts`** (new) — maps the backend's real FIR/criminal JSON onto the
-  frontend's existing `FIR` UI type (used by `CaseDetails.tsx`), so that page didn't need to
-  change at all. Fields the source database doesn't provide (lat/long, per-case sections,
-  evidence files, filing officer, etc.) are filled with `"Not recorded"` — consistent with how
-  the backend itself already handles missing data.
-- **`src/pages/AIAssistant.tsx`** — replaced the hardcoded canned responses with real calls to
-  `POST /api/chat`, session continuity (`session_id` persisted the same way the reference
-  `static/app.js` frontend does), and **clickable citations**: an `FIR` citation fetches
-  `/api/fir/{id}` and opens the real Case Details page; a `CRIMINAL` citation fetches
-  `/api/criminal/{id}` and opens a profile modal, whose past cases are themselves clickable.
-- **`src/pages/Search.tsx`** — replaced the static 5-record mock array with the backend's
-  native search: it debounces the query box, calls `GET /api/search?q=...&kind=FIR`, then
-  fetches full details for the matches (capped at 30) and adapts them for the existing card UI.
-  Client-side facet filters (district, gravity, status, category, date range) still run on top
-  of those live results, exactly like before.
-
-Everything else in the frontend (Dashboard, Analytics, Admin, Settings, the language/dark-mode
-toggle) is unchanged and still uses mock data — the request was scoped to chatbot, citations,
-and search, so that's what got merged onto the real backend.
-
-## Known limitations (inherited from the source data, not introduced by this merge)
-
-- No persistent person ID across cases — repeat-offender matching is by exact name, exactly as
-  the backend already documents.
-- Per-case Act/Section and evidence-file data isn't exposed by `/api/fir/{id}` yet, so those
-  tabs render empty in Case Details when populated from search/citations.
-- The "Criminal Network" panel on the Search page is now scoped to whatever's currently loaded
-  from a search (previously it silently used the whole 5-record mock array); the backend's own
-  full-database repeat-offender view is available through the AI Assistant's "Find repeat
-  offenders" suggestion.
+- FIR search, FIR details, criminal profiles, citations, and the AI assistant call the live backend.
+- Some Dashboard, Analytics, Admin, and Settings content is currently presentation/mock data.
+- The source dataset does not provide a persistent cross-case person identifier, so repeat-offender matching is name-based.
+- Some detail fields, such as per-case act/section and evidence files, may appear as `Not recorded` when they are unavailable from the source database.
