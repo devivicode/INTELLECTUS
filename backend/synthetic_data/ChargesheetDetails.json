@@ -1,0 +1,562 @@
+[
+  {
+    "CSID": 1,
+    "CaseMasterID": 119,
+    "csdate": "2023-03-14 03:22:00",
+    "cstype": "B",
+    "PolicePersonID": 23
+  },
+  {
+    "CSID": 2,
+    "CaseMasterID": 125,
+    "csdate": "2022-01-31 12:41:00",
+    "cstype": "B",
+    "PolicePersonID": 2
+  },
+  {
+    "CSID": 3,
+    "CaseMasterID": 200,
+    "csdate": "2024-03-08 06:29:00",
+    "cstype": "A",
+    "PolicePersonID": 9
+  },
+  {
+    "CSID": 4,
+    "CaseMasterID": 18,
+    "csdate": "2025-09-09 08:41:00",
+    "cstype": "C",
+    "PolicePersonID": 48
+  },
+  {
+    "CSID": 5,
+    "CaseMasterID": 22,
+    "csdate": "2022-03-31 02:56:00",
+    "cstype": "A",
+    "PolicePersonID": 53
+  },
+  {
+    "CSID": 6,
+    "CaseMasterID": 141,
+    "csdate": "2023-09-10 19:31:00",
+    "cstype": "A",
+    "PolicePersonID": 69
+  },
+  {
+    "CSID": 7,
+    "CaseMasterID": 169,
+    "csdate": "2025-03-11 05:16:00",
+    "cstype": "A",
+    "PolicePersonID": 77
+  },
+  {
+    "CSID": 8,
+    "CaseMasterID": 63,
+    "csdate": "2023-10-27 20:44:00",
+    "cstype": "B",
+    "PolicePersonID": 18
+  },
+  {
+    "CSID": 9,
+    "CaseMasterID": 183,
+    "csdate": "2023-11-12 05:40:00",
+    "cstype": "C",
+    "PolicePersonID": 41
+  },
+  {
+    "CSID": 10,
+    "CaseMasterID": 113,
+    "csdate": "2025-09-26 15:04:00",
+    "cstype": "B",
+    "PolicePersonID": 3
+  },
+  {
+    "CSID": 11,
+    "CaseMasterID": 36,
+    "csdate": "2025-05-31 18:28:00",
+    "cstype": "B",
+    "PolicePersonID": 66
+  },
+  {
+    "CSID": 12,
+    "CaseMasterID": 121,
+    "csdate": "2025-08-04 23:14:00",
+    "cstype": "C",
+    "PolicePersonID": 76
+  },
+  {
+    "CSID": 13,
+    "CaseMasterID": 72,
+    "csdate": "2025-12-14 00:14:00",
+    "cstype": "A",
+    "PolicePersonID": 79
+  },
+  {
+    "CSID": 14,
+    "CaseMasterID": 42,
+    "csdate": "2022-09-12 09:15:00",
+    "cstype": "C",
+    "PolicePersonID": 55
+  },
+  {
+    "CSID": 15,
+    "CaseMasterID": 44,
+    "csdate": "2023-05-14 19:05:00",
+    "cstype": "A",
+    "PolicePersonID": 18
+  },
+  {
+    "CSID": 16,
+    "CaseMasterID": 5,
+    "csdate": "2024-02-07 15:18:00",
+    "cstype": "A",
+    "PolicePersonID": 20
+  },
+  {
+    "CSID": 17,
+    "CaseMasterID": 156,
+    "csdate": "2024-02-09 06:41:00",
+    "cstype": "A",
+    "PolicePersonID": 31
+  },
+  {
+    "CSID": 18,
+    "CaseMasterID": 26,
+    "csdate": "2025-05-09 14:47:00",
+    "cstype": "B",
+    "PolicePersonID": 18
+  },
+  {
+    "CSID": 19,
+    "CaseMasterID": 46,
+    "csdate": "2023-07-24 10:41:00",
+    "cstype": "A",
+    "PolicePersonID": 67
+  },
+  {
+    "CSID": 20,
+    "CaseMasterID": 76,
+    "csdate": "2024-04-29 20:52:00",
+    "cstype": "B",
+    "PolicePersonID": 4
+  },
+  {
+    "CSID": 21,
+    "CaseMasterID": 32,
+    "csdate": "2023-04-15 23:21:00",
+    "cstype": "B",
+    "PolicePersonID": 32
+  },
+  {
+    "CSID": 22,
+    "CaseMasterID": 137,
+    "csdate": "2023-02-26 17:03:00",
+    "cstype": "C",
+    "PolicePersonID": 32
+  },
+  {
+    "CSID": 23,
+    "CaseMasterID": 101,
+    "csdate": "2025-11-08 22:46:00",
+    "cstype": "A",
+    "PolicePersonID": 78
+  },
+  {
+    "CSID": 24,
+    "CaseMasterID": 186,
+    "csdate": "2024-02-21 16:20:00",
+    "cstype": "A",
+    "PolicePersonID": 57
+  },
+  {
+    "CSID": 25,
+    "CaseMasterID": 20,
+    "csdate": "2025-07-13 00:04:00",
+    "cstype": "B",
+    "PolicePersonID": 9
+  },
+  {
+    "CSID": 26,
+    "CaseMasterID": 172,
+    "csdate": "2023-01-30 01:40:00",
+    "cstype": "A",
+    "PolicePersonID": 27
+  },
+  {
+    "CSID": 27,
+    "CaseMasterID": 3,
+    "csdate": "2022-09-15 02:11:00",
+    "cstype": "C",
+    "PolicePersonID": 71
+  },
+  {
+    "CSID": 28,
+    "CaseMasterID": 70,
+    "csdate": "2023-02-23 07:32:00",
+    "cstype": "A",
+    "PolicePersonID": 55
+  },
+  {
+    "CSID": 29,
+    "CaseMasterID": 40,
+    "csdate": "2024-08-14 09:10:00",
+    "cstype": "C",
+    "PolicePersonID": 26
+  },
+  {
+    "CSID": 30,
+    "CaseMasterID": 191,
+    "csdate": "2023-05-17 13:11:00",
+    "cstype": "C",
+    "PolicePersonID": 32
+  },
+  {
+    "CSID": 31,
+    "CaseMasterID": 92,
+    "csdate": "2023-09-13 09:36:00",
+    "cstype": "B",
+    "PolicePersonID": 26
+  },
+  {
+    "CSID": 32,
+    "CaseMasterID": 182,
+    "csdate": "2023-07-11 15:05:00",
+    "cstype": "B",
+    "PolicePersonID": 51
+  },
+  {
+    "CSID": 33,
+    "CaseMasterID": 56,
+    "csdate": "2024-02-13 05:30:00",
+    "cstype": "B",
+    "PolicePersonID": 55
+  },
+  {
+    "CSID": 34,
+    "CaseMasterID": 9,
+    "csdate": "2024-10-31 19:47:00",
+    "cstype": "B",
+    "PolicePersonID": 20
+  },
+  {
+    "CSID": 35,
+    "CaseMasterID": 179,
+    "csdate": "2024-09-14 00:48:00",
+    "cstype": "B",
+    "PolicePersonID": 55
+  },
+  {
+    "CSID": 36,
+    "CaseMasterID": 168,
+    "csdate": "2022-06-20 09:38:00",
+    "cstype": "C",
+    "PolicePersonID": 20
+  },
+  {
+    "CSID": 37,
+    "CaseMasterID": 114,
+    "csdate": "2025-02-06 23:11:00",
+    "cstype": "B",
+    "PolicePersonID": 49
+  },
+  {
+    "CSID": 38,
+    "CaseMasterID": 13,
+    "csdate": "2024-08-07 09:29:00",
+    "cstype": "B",
+    "PolicePersonID": 49
+  },
+  {
+    "CSID": 39,
+    "CaseMasterID": 134,
+    "csdate": "2025-02-25 19:30:00",
+    "cstype": "A",
+    "PolicePersonID": 43
+  },
+  {
+    "CSID": 40,
+    "CaseMasterID": 27,
+    "csdate": "2022-10-07 22:30:00",
+    "cstype": "A",
+    "PolicePersonID": 20
+  },
+  {
+    "CSID": 41,
+    "CaseMasterID": 100,
+    "csdate": "2023-01-24 00:00:00",
+    "cstype": "C",
+    "PolicePersonID": 48
+  },
+  {
+    "CSID": 42,
+    "CaseMasterID": 79,
+    "csdate": "2024-10-03 12:59:00",
+    "cstype": "B",
+    "PolicePersonID": 51
+  },
+  {
+    "CSID": 43,
+    "CaseMasterID": 164,
+    "csdate": "2024-02-04 12:31:00",
+    "cstype": "B",
+    "PolicePersonID": 76
+  },
+  {
+    "CSID": 44,
+    "CaseMasterID": 14,
+    "csdate": "2022-05-26 13:56:00",
+    "cstype": "A",
+    "PolicePersonID": 16
+  },
+  {
+    "CSID": 45,
+    "CaseMasterID": 154,
+    "csdate": "2024-02-28 18:10:00",
+    "cstype": "A",
+    "PolicePersonID": 56
+  },
+  {
+    "CSID": 46,
+    "CaseMasterID": 2,
+    "csdate": "2023-06-07 23:22:00",
+    "cstype": "C",
+    "PolicePersonID": 63
+  },
+  {
+    "CSID": 47,
+    "CaseMasterID": 163,
+    "csdate": "2025-07-24 22:23:00",
+    "cstype": "C",
+    "PolicePersonID": 8
+  },
+  {
+    "CSID": 48,
+    "CaseMasterID": 97,
+    "csdate": "2025-08-26 12:59:00",
+    "cstype": "B",
+    "PolicePersonID": 32
+  },
+  {
+    "CSID": 49,
+    "CaseMasterID": 52,
+    "csdate": "2023-05-12 15:02:00",
+    "cstype": "B",
+    "PolicePersonID": 4
+  },
+  {
+    "CSID": 50,
+    "CaseMasterID": 64,
+    "csdate": "2025-11-29 21:41:00",
+    "cstype": "A",
+    "PolicePersonID": 34
+  },
+  {
+    "CSID": 51,
+    "CaseMasterID": 96,
+    "csdate": "2025-05-24 14:43:00",
+    "cstype": "A",
+    "PolicePersonID": 33
+  },
+  {
+    "CSID": 52,
+    "CaseMasterID": 62,
+    "csdate": "2023-05-22 19:37:00",
+    "cstype": "C",
+    "PolicePersonID": 21
+  },
+  {
+    "CSID": 53,
+    "CaseMasterID": 152,
+    "csdate": "2022-01-26 03:49:00",
+    "cstype": "A",
+    "PolicePersonID": 50
+  },
+  {
+    "CSID": 54,
+    "CaseMasterID": 24,
+    "csdate": "2024-03-25 22:37:00",
+    "cstype": "A",
+    "PolicePersonID": 67
+  },
+  {
+    "CSID": 55,
+    "CaseMasterID": 185,
+    "csdate": "2023-01-22 13:10:00",
+    "cstype": "B",
+    "PolicePersonID": 33
+  },
+  {
+    "CSID": 56,
+    "CaseMasterID": 108,
+    "csdate": "2025-11-17 09:32:00",
+    "cstype": "C",
+    "PolicePersonID": 49
+  },
+  {
+    "CSID": 57,
+    "CaseMasterID": 8,
+    "csdate": "2025-04-15 09:46:00",
+    "cstype": "B",
+    "PolicePersonID": 12
+  },
+  {
+    "CSID": 58,
+    "CaseMasterID": 4,
+    "csdate": "2022-08-12 20:36:00",
+    "cstype": "B",
+    "PolicePersonID": 19
+  },
+  {
+    "CSID": 59,
+    "CaseMasterID": 87,
+    "csdate": "2023-07-05 23:13:00",
+    "cstype": "C",
+    "PolicePersonID": 51
+  },
+  {
+    "CSID": 60,
+    "CaseMasterID": 50,
+    "csdate": "2025-12-02 09:00:00",
+    "cstype": "A",
+    "PolicePersonID": 63
+  },
+  {
+    "CSID": 61,
+    "CaseMasterID": 17,
+    "csdate": "2022-01-04 03:04:00",
+    "cstype": "C",
+    "PolicePersonID": 54
+  },
+  {
+    "CSID": 62,
+    "CaseMasterID": 57,
+    "csdate": "2024-12-11 13:41:00",
+    "cstype": "B",
+    "PolicePersonID": 56
+  },
+  {
+    "CSID": 63,
+    "CaseMasterID": 25,
+    "csdate": "2022-12-16 05:23:00",
+    "cstype": "A",
+    "PolicePersonID": 18
+  },
+  {
+    "CSID": 64,
+    "CaseMasterID": 43,
+    "csdate": "2023-02-10 15:11:00",
+    "cstype": "C",
+    "PolicePersonID": 15
+  },
+  {
+    "CSID": 65,
+    "CaseMasterID": 166,
+    "csdate": "2024-07-11 18:52:00",
+    "cstype": "A",
+    "PolicePersonID": 24
+  },
+  {
+    "CSID": 66,
+    "CaseMasterID": 12,
+    "csdate": "2023-02-16 01:47:00",
+    "cstype": "A",
+    "PolicePersonID": 25
+  },
+  {
+    "CSID": 67,
+    "CaseMasterID": 107,
+    "csdate": "2023-06-16 13:28:00",
+    "cstype": "C",
+    "PolicePersonID": 80
+  },
+  {
+    "CSID": 68,
+    "CaseMasterID": 132,
+    "csdate": "2022-08-12 20:10:00",
+    "cstype": "A",
+    "PolicePersonID": 38
+  },
+  {
+    "CSID": 69,
+    "CaseMasterID": 28,
+    "csdate": "2022-06-25 12:07:00",
+    "cstype": "B",
+    "PolicePersonID": 9
+  },
+  {
+    "CSID": 70,
+    "CaseMasterID": 84,
+    "csdate": "2023-12-02 00:37:00",
+    "cstype": "A",
+    "PolicePersonID": 62
+  },
+  {
+    "CSID": 71,
+    "CaseMasterID": 83,
+    "csdate": "2024-09-20 21:48:00",
+    "cstype": "A",
+    "PolicePersonID": 2
+  },
+  {
+    "CSID": 72,
+    "CaseMasterID": 49,
+    "csdate": "2022-05-06 08:48:00",
+    "cstype": "A",
+    "PolicePersonID": 75
+  },
+  {
+    "CSID": 73,
+    "CaseMasterID": 54,
+    "csdate": "2022-03-27 03:13:00",
+    "cstype": "C",
+    "PolicePersonID": 1
+  },
+  {
+    "CSID": 74,
+    "CaseMasterID": 120,
+    "csdate": "2024-02-09 19:33:00",
+    "cstype": "B",
+    "PolicePersonID": 63
+  },
+  {
+    "CSID": 75,
+    "CaseMasterID": 173,
+    "csdate": "2024-08-27 10:38:00",
+    "cstype": "B",
+    "PolicePersonID": 44
+  },
+  {
+    "CSID": 76,
+    "CaseMasterID": 51,
+    "csdate": "2024-01-30 21:56:00",
+    "cstype": "B",
+    "PolicePersonID": 41
+  },
+  {
+    "CSID": 77,
+    "CaseMasterID": 189,
+    "csdate": "2023-05-06 11:42:00",
+    "cstype": "B",
+    "PolicePersonID": 49
+  },
+  {
+    "CSID": 78,
+    "CaseMasterID": 55,
+    "csdate": "2025-06-04 01:22:00",
+    "cstype": "B",
+    "PolicePersonID": 13
+  },
+  {
+    "CSID": 79,
+    "CaseMasterID": 16,
+    "csdate": "2022-01-07 14:55:00",
+    "cstype": "C",
+    "PolicePersonID": 52
+  },
+  {
+    "CSID": 80,
+    "CaseMasterID": 30,
+    "csdate": "2022-10-12 00:38:00",
+    "cstype": "A",
+    "PolicePersonID": 68
+  }
+]

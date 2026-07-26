@@ -1,0 +1,42 @@
+[
+  {
+    "CrimeHeadID": 1,
+    "CrimeGroupName": "Crimes Against Body",
+    "Active": 1
+  },
+  {
+    "CrimeHeadID": 2,
+    "CrimeGroupName": "Crimes Against Property",
+    "Active": 1
+  },
+  {
+    "CrimeHeadID": 3,
+    "CrimeGroupName": "Crimes Against Women",
+    "Active": 1
+  },
+  {
+    "CrimeHeadID": 4,
+    "CrimeGroupName": "Crimes Against Children",
+    "Active": 1
+  },
+  {
+    "CrimeHeadID": 5,
+    "CrimeGroupName": "Cyber Crimes",
+    "Active": 1
+  },
+  {
+    "CrimeHeadID": 6,
+    "CrimeGroupName": "Economic Offences",
+    "Active": 1
+  },
+  {
+    "CrimeHeadID": 7,
+    "CrimeGroupName": "Drug Related Crimes",
+    "Active": 1
+  },
+  {
+    "CrimeHeadID": 8,
+    "CrimeGroupName": "Road Accidents",
+    "Active": 1
+  }
+]

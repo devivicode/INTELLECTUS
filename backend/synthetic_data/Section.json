@@ -1,0 +1,332 @@
+[
+  {
+    "ActCode": "IPC",
+    "SectionCode": "302",
+    "SectionDescription": "Section 302 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "307",
+    "SectionDescription": "Section 307 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "304",
+    "SectionDescription": "Section 304 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "323",
+    "SectionDescription": "Section 323 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "324",
+    "SectionDescription": "Section 324 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "325",
+    "SectionDescription": "Section 325 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "392",
+    "SectionDescription": "Section 392 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "395",
+    "SectionDescription": "Section 395 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "376",
+    "SectionDescription": "Section 376 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "363",
+    "SectionDescription": "Section 363 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "420",
+    "SectionDescription": "Section 420 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "406",
+    "SectionDescription": "Section 406 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "498A",
+    "SectionDescription": "Section 498A of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "304B",
+    "SectionDescription": "Section 304B of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "379",
+    "SectionDescription": "Section 379 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "380",
+    "SectionDescription": "Section 380 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "411",
+    "SectionDescription": "Section 411 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "120B",
+    "SectionDescription": "Section 120B of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "34",
+    "SectionDescription": "Section 34 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "IPC",
+    "SectionCode": "149",
+    "SectionDescription": "Section 149 of IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "SectionCode": "20",
+    "SectionDescription": "Section 20 of NDPS",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "SectionCode": "21",
+    "SectionDescription": "Section 21 of NDPS",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "SectionCode": "22",
+    "SectionDescription": "Section 22 of NDPS",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "SectionCode": "27",
+    "SectionDescription": "Section 27 of NDPS",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "SectionCode": "27A",
+    "SectionDescription": "Section 27A of NDPS",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "SectionCode": "29",
+    "SectionDescription": "Section 29 of NDPS",
+    "Active": 1
+  },
+  {
+    "ActCode": "IT",
+    "SectionCode": "43",
+    "SectionDescription": "Section 43 of IT Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "IT",
+    "SectionCode": "65",
+    "SectionDescription": "Section 65 of IT Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "IT",
+    "SectionCode": "66",
+    "SectionDescription": "Section 66 of IT Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "IT",
+    "SectionCode": "66C",
+    "SectionDescription": "Section 66C of IT Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "IT",
+    "SectionCode": "66D",
+    "SectionDescription": "Section 66D of IT Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "IT",
+    "SectionCode": "67",
+    "SectionDescription": "Section 67 of IT Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "MV",
+    "SectionCode": "112",
+    "SectionDescription": "Section 112 of MV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "MV",
+    "SectionCode": "132",
+    "SectionDescription": "Section 132 of MV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "MV",
+    "SectionCode": "134",
+    "SectionDescription": "Section 134 of MV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "MV",
+    "SectionCode": "177",
+    "SectionDescription": "Section 177 of MV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "MV",
+    "SectionCode": "184",
+    "SectionDescription": "Section 184 of MV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "MV",
+    "SectionCode": "185",
+    "SectionDescription": "Section 185 of MV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "SectionCode": "3",
+    "SectionDescription": "Section 3 of DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "SectionCode": "4",
+    "SectionDescription": "Section 4 of DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "SectionCode": "12",
+    "SectionDescription": "Section 12 of DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "SectionCode": "17",
+    "SectionDescription": "Section 17 of DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "SectionCode": "18",
+    "SectionDescription": "Section 18 of DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "SectionCode": "19",
+    "SectionDescription": "Section 19 of DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "SectionCode": "20",
+    "SectionDescription": "Section 20 of DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "3",
+    "SectionDescription": "Section 3 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "4",
+    "SectionDescription": "Section 4 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "5",
+    "SectionDescription": "Section 5 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "6",
+    "SectionDescription": "Section 6 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "7",
+    "SectionDescription": "Section 7 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "8",
+    "SectionDescription": "Section 8 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "9",
+    "SectionDescription": "Section 9 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "10",
+    "SectionDescription": "Section 10 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "11",
+    "SectionDescription": "Section 11 of POCSO",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "SectionCode": "12",
+    "SectionDescription": "Section 12 of POCSO",
+    "Active": 1
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "CrimeSubHeadID": 1,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Murder",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 2,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Attempt to Murder",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 3,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Culpable Homicide",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 4,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Grievous Hurt",
+    "SeqID": 4
+  },
+  {
+    "CrimeSubHeadID": 5,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Simple Hurt",
+    "SeqID": 5
+  },
+  {
+    "CrimeSubHeadID": 6,
+    "CrimeHeadID": 2,
+    "CrimeHeadName": "Robbery",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 7,
+    "CrimeHeadID": 2,
+    "CrimeHeadName": "Dacoity",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 8,
+    "CrimeHeadID": 2,
+    "CrimeHeadName": "Burglary",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 9,
+    "CrimeHeadID": 2,
+    "CrimeHeadName": "Theft",
+    "SeqID": 4
+  },
+  {
+    "CrimeSubHeadID": 10,
+    "CrimeHeadID": 2,
+    "CrimeHeadName": "Cheating",
+    "SeqID": 5
+  },
+  {
+    "CrimeSubHeadID": 11,
+    "CrimeHeadID": 3,
+    "CrimeHeadName": "Rape",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 12,
+    "CrimeHeadID": 3,
+    "CrimeHeadName": "Dowry Death",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 13,
+    "CrimeHeadID": 3,
+    "CrimeHeadName": "Kidnapping of Women",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 14,
+    "CrimeHeadID": 3,
+    "CrimeHeadName": "Sexual Harassment",
+    "SeqID": 4
+  },
+  {
+    "CrimeSubHeadID": 15,
+    "CrimeHeadID": 3,
+    "CrimeHeadName": "Domestic Violence",
+    "SeqID": 5
+  },
+  {
+    "CrimeSubHeadID": 16,
+    "CrimeHeadID": 4,
+    "CrimeHeadName": "Child Kidnapping",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 17,
+    "CrimeHeadID": 4,
+    "CrimeHeadName": "Child Abuse",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 18,
+    "CrimeHeadID": 4,
+    "CrimeHeadName": "POCSO Act Cases",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 19,
+    "CrimeHeadID": 4,
+    "CrimeHeadName": "Child Labour",
+    "SeqID": 4
+  },
+  {
+    "CrimeSubHeadID": 20,
+    "CrimeHeadID": 5,
+    "CrimeHeadName": "Online Fraud",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 21,
+    "CrimeHeadID": 5,
+    "CrimeHeadName": "Identity Theft",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 22,
+    "CrimeHeadID": 5,
+    "CrimeHeadName": "Cyberstalking",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 23,
+    "CrimeHeadID": 5,
+    "CrimeHeadName": "Hacking",
+    "SeqID": 4
+  },
+  {
+    "CrimeSubHeadID": 24,
+    "CrimeHeadID": 5,
+    "CrimeHeadName": "Phishing",
+    "SeqID": 5
+  },
+  {
+    "CrimeSubHeadID": 25,
+    "CrimeHeadID": 6,
+    "CrimeHeadName": "Bank Fraud",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 26,
+    "CrimeHeadID": 6,
+    "CrimeHeadName": "Fake Currency",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 27,
+    "CrimeHeadID": 6,
+    "CrimeHeadName": "Money Laundering",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 28,
+    "CrimeHeadID": 6,
+    "CrimeHeadName": "Tax Evasion",
+    "SeqID": 4
+  },
+  {
+    "CrimeSubHeadID": 29,
+    "CrimeHeadID": 7,
+    "CrimeHeadName": "NDPS Possession",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 30,
+    "CrimeHeadID": 7,
+    "CrimeHeadName": "Drug Trafficking",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 31,
+    "CrimeHeadID": 7,
+    "CrimeHeadName": "Drug Peddling",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 32,
+    "CrimeHeadID": 8,
+    "CrimeHeadName": "Fatal Accident",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 33,
+    "CrimeHeadID": 8,
+    "CrimeHeadName": "Non-Fatal Accident",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 34,
+    "CrimeHeadID": 8,
+    "CrimeHeadName": "Hit and Run",
+    "SeqID": 3
+  }
+]

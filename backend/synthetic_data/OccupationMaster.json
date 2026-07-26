@@ -1,0 +1,62 @@
+[
+  {
+    "OccupationID": 1,
+    "OccupationName": "Farmer"
+  },
+  {
+    "OccupationID": 2,
+    "OccupationName": "Government Employee"
+  },
+  {
+    "OccupationID": 3,
+    "OccupationName": "Private Employee"
+  },
+  {
+    "OccupationID": 4,
+    "OccupationName": "Business"
+  },
+  {
+    "OccupationID": 5,
+    "OccupationName": "Student"
+  },
+  {
+    "OccupationID": 6,
+    "OccupationName": "Daily Wage Worker"
+  },
+  {
+    "OccupationID": 7,
+    "OccupationName": "Housewife"
+  },
+  {
+    "OccupationID": 8,
+    "OccupationName": "Retired"
+  },
+  {
+    "OccupationID": 9,
+    "OccupationName": "Driver"
+  },
+  {
+    "OccupationID": 10,
+    "OccupationName": "Auto Driver"
+  },
+  {
+    "OccupationID": 11,
+    "OccupationName": "Teacher"
+  },
+  {
+    "OccupationID": 12,
+    "OccupationName": "Doctor"
+  },
+  {
+    "OccupationID": 13,
+    "OccupationName": "Lawyer"
+  },
+  {
+    "OccupationID": 14,
+    "OccupationName": "Engineer"
+  },
+  {
+    "OccupationID": 15,
+    "OccupationName": "Unemployed"
+  }
+]

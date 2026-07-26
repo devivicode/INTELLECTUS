@@ -1,0 +1,2809 @@
+[
+  {
+    "CaseMasterID": 1,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 2,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 2,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 3,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 3,
+    "ActID": "POCSO",
+    "SectionID": "11",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 4,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 4,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 5,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 6,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 6,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 6,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 7,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 8,
+    "ActID": "POCSO",
+    "SectionID": "8",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 9,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 9,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 9,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 10,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 10,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 11,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 11,
+    "ActID": "NDPS",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 12,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 13,
+    "ActID": "IT",
+    "SectionID": "66",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 14,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 14,
+    "ActID": "DV",
+    "SectionID": "4",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 15,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 15,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 15,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 16,
+    "ActID": "IPC",
+    "SectionID": "420",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 16,
+    "ActID": "IPC",
+    "SectionID": "376",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 16,
+    "ActID": "IPC",
+    "SectionID": "304",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 17,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 17,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 17,
+    "ActID": "DV",
+    "SectionID": "4",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 18,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 19,
+    "ActID": "IT",
+    "SectionID": "66",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 19,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 19,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 20,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 20,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 21,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 21,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 21,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 22,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 23,
+    "ActID": "POCSO",
+    "SectionID": "5",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 23,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 23,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 24,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 24,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 24,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 25,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 25,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 25,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 26,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 26,
+    "ActID": "NDPS",
+    "SectionID": "21",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 27,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 28,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 28,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 29,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 30,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 30,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 31,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 32,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 32,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 32,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 33,
+    "ActID": "IPC",
+    "SectionID": "392",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 34,
+    "ActID": "IPC",
+    "SectionID": "363",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 35,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 35,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 36,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 36,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 36,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 37,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 38,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 38,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 39,
+    "ActID": "NDPS",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 39,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 39,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 40,
+    "ActID": "IPC",
+    "SectionID": "420",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 41,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 41,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 42,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 42,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 43,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 43,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 43,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 44,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 44,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 44,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 45,
+    "ActID": "POCSO",
+    "SectionID": "11",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 45,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 45,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 46,
+    "ActID": "IPC",
+    "SectionID": "149",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 47,
+    "ActID": "IPC",
+    "SectionID": "420",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 47,
+    "ActID": "IPC",
+    "SectionID": "34",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 48,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 48,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 49,
+    "ActID": "NDPS",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 50,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 51,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 51,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 52,
+    "ActID": "IPC",
+    "SectionID": "120B",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 52,
+    "ActID": "IPC",
+    "SectionID": "406",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 53,
+    "ActID": "POCSO",
+    "SectionID": "8",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 54,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 54,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 55,
+    "ActID": "NDPS",
+    "SectionID": "21",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 55,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 56,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 56,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 56,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 57,
+    "ActID": "POCSO",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 57,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 57,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 58,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 58,
+    "ActID": "IT",
+    "SectionID": "66",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 58,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 59,
+    "ActID": "POCSO",
+    "SectionID": "11",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 60,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 60,
+    "ActID": "NDPS",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 61,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 61,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 62,
+    "ActID": "NDPS",
+    "SectionID": "21",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 62,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 63,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 63,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 63,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 64,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 65,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 65,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 65,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 66,
+    "ActID": "IPC",
+    "SectionID": "376",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 67,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 68,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 68,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 68,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 69,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 69,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 69,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 70,
+    "ActID": "POCSO",
+    "SectionID": "5",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 70,
+    "ActID": "POCSO",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 71,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 72,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 72,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 73,
+    "ActID": "IPC",
+    "SectionID": "395",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 74,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 74,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 74,
+    "ActID": "DV",
+    "SectionID": "4",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 75,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 75,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 75,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 76,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 76,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 76,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 77,
+    "ActID": "POCSO",
+    "SectionID": "8",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 77,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 77,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 78,
+    "ActID": "IPC",
+    "SectionID": "406",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 78,
+    "ActID": "IPC",
+    "SectionID": "325",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 79,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 79,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 80,
+    "ActID": "IPC",
+    "SectionID": "120B",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 81,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 81,
+    "ActID": "POCSO",
+    "SectionID": "4",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 81,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 82,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 82,
+    "ActID": "NDPS",
+    "SectionID": "21",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 83,
+    "ActID": "IPC",
+    "SectionID": "149",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 83,
+    "ActID": "IPC",
+    "SectionID": "304B",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 84,
+    "ActID": "DV",
+    "SectionID": "4",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 84,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 85,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 86,
+    "ActID": "IPC",
+    "SectionID": "411",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 87,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 87,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 88,
+    "ActID": "IPC",
+    "SectionID": "392",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 89,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 89,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 90,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 91,
+    "ActID": "NDPS",
+    "SectionID": "21",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 91,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 91,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 92,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 93,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 94,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 95,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 96,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 96,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 96,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 97,
+    "ActID": "IPC",
+    "SectionID": "324",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 97,
+    "ActID": "IPC",
+    "SectionID": "420",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 98,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 98,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 99,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 99,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 100,
+    "ActID": "IPC",
+    "SectionID": "120B",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 101,
+    "ActID": "IPC",
+    "SectionID": "420",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 102,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 102,
+    "ActID": "NDPS",
+    "SectionID": "27A",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 103,
+    "ActID": "POCSO",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 103,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 103,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 104,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 104,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 104,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 105,
+    "ActID": "POCSO",
+    "SectionID": "5",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 105,
+    "ActID": "POCSO",
+    "SectionID": "11",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 106,
+    "ActID": "IPC",
+    "SectionID": "325",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 106,
+    "ActID": "IPC",
+    "SectionID": "376",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 106,
+    "ActID": "IPC",
+    "SectionID": "149",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 107,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 107,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 108,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 109,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 109,
+    "ActID": "POCSO",
+    "SectionID": "5",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 109,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 110,
+    "ActID": "IPC",
+    "SectionID": "307",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 110,
+    "ActID": "IPC",
+    "SectionID": "324",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 111,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 111,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 112,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 112,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 113,
+    "ActID": "IT",
+    "SectionID": "66",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 113,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 113,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 114,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 114,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 114,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 115,
+    "ActID": "IPC",
+    "SectionID": "324",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 116,
+    "ActID": "IPC",
+    "SectionID": "325",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 117,
+    "ActID": "IPC",
+    "SectionID": "376",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 117,
+    "ActID": "IPC",
+    "SectionID": "325",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 118,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 118,
+    "ActID": "POCSO",
+    "SectionID": "4",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 119,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 120,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 120,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 120,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 121,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 122,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 123,
+    "ActID": "IPC",
+    "SectionID": "363",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 124,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 125,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 125,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 126,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 127,
+    "ActID": "IPC",
+    "SectionID": "34",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 127,
+    "ActID": "IPC",
+    "SectionID": "325",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 127,
+    "ActID": "IPC",
+    "SectionID": "304B",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 128,
+    "ActID": "IPC",
+    "SectionID": "380",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 129,
+    "ActID": "POCSO",
+    "SectionID": "8",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 130,
+    "ActID": "IPC",
+    "SectionID": "323",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 130,
+    "ActID": "IPC",
+    "SectionID": "498A",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 131,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 131,
+    "ActID": "IT",
+    "SectionID": "66",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 131,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 132,
+    "ActID": "IPC",
+    "SectionID": "379",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 133,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 133,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 133,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 134,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 134,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 134,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 135,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 135,
+    "ActID": "POCSO",
+    "SectionID": "8",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 135,
+    "ActID": "POCSO",
+    "SectionID": "5",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 136,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 137,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 137,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 138,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 138,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 138,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 139,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 140,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 141,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 142,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 142,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 143,
+    "ActID": "IPC",
+    "SectionID": "380",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 143,
+    "ActID": "IPC",
+    "SectionID": "304B",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 144,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 144,
+    "ActID": "POCSO",
+    "SectionID": "5",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 145,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 145,
+    "ActID": "IT",
+    "SectionID": "66",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 145,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 146,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 146,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 147,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 147,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 147,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 148,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 148,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 149,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 149,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 149,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 150,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 150,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 151,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 151,
+    "ActID": "NDPS",
+    "SectionID": "21",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 151,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 152,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 152,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 152,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 153,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 153,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 154,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 154,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 155,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 155,
+    "ActID": "POCSO",
+    "SectionID": "11",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 156,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 156,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 157,
+    "ActID": "DV",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 158,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 159,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 159,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 160,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 160,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 160,
+    "ActID": "POCSO",
+    "SectionID": "8",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 161,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 161,
+    "ActID": "IT",
+    "SectionID": "66D",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 161,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 162,
+    "ActID": "IPC",
+    "SectionID": "379",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 162,
+    "ActID": "IPC",
+    "SectionID": "325",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 162,
+    "ActID": "IPC",
+    "SectionID": "34",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 163,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 164,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 164,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 164,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 165,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 165,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 166,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 167,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 168,
+    "ActID": "DV",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 168,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 169,
+    "ActID": "IPC",
+    "SectionID": "120B",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 169,
+    "ActID": "IPC",
+    "SectionID": "302",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 170,
+    "ActID": "IPC",
+    "SectionID": "323",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 170,
+    "ActID": "IPC",
+    "SectionID": "302",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 171,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 171,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 171,
+    "ActID": "NDPS",
+    "SectionID": "27A",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 172,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 172,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 172,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 173,
+    "ActID": "DV",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 173,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 173,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 174,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 175,
+    "ActID": "NDPS",
+    "SectionID": "21",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 176,
+    "ActID": "IPC",
+    "SectionID": "392",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 177,
+    "ActID": "IPC",
+    "SectionID": "380",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 178,
+    "ActID": "POCSO",
+    "SectionID": "6",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 179,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 179,
+    "ActID": "MV",
+    "SectionID": "132",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 179,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 180,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 180,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 181,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 182,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 183,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 183,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 184,
+    "ActID": "IPC",
+    "SectionID": "34",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 184,
+    "ActID": "IPC",
+    "SectionID": "395",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 185,
+    "ActID": "NDPS",
+    "SectionID": "27A",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 185,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 186,
+    "ActID": "IPC",
+    "SectionID": "302",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 186,
+    "ActID": "IPC",
+    "SectionID": "323",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 187,
+    "ActID": "POCSO",
+    "SectionID": "9",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 187,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 187,
+    "ActID": "POCSO",
+    "SectionID": "10",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 188,
+    "ActID": "POCSO",
+    "SectionID": "12",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 188,
+    "ActID": "POCSO",
+    "SectionID": "11",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 188,
+    "ActID": "POCSO",
+    "SectionID": "7",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 189,
+    "ActID": "IPC",
+    "SectionID": "498A",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 189,
+    "ActID": "IPC",
+    "SectionID": "380",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 190,
+    "ActID": "DV",
+    "SectionID": "19",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 190,
+    "ActID": "DV",
+    "SectionID": "18",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 190,
+    "ActID": "DV",
+    "SectionID": "17",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 191,
+    "ActID": "NDPS",
+    "SectionID": "20",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 191,
+    "ActID": "NDPS",
+    "SectionID": "27A",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 191,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 192,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 192,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 192,
+    "ActID": "MV",
+    "SectionID": "112",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 193,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 193,
+    "ActID": "IT",
+    "SectionID": "67",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 193,
+    "ActID": "IT",
+    "SectionID": "43",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 194,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 194,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 194,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 195,
+    "ActID": "POCSO",
+    "SectionID": "3",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 195,
+    "ActID": "POCSO",
+    "SectionID": "5",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 196,
+    "ActID": "IT",
+    "SectionID": "65",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 196,
+    "ActID": "IT",
+    "SectionID": "66C",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 196,
+    "ActID": "IT",
+    "SectionID": "66",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 197,
+    "ActID": "MV",
+    "SectionID": "184",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 198,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 198,
+    "ActID": "NDPS",
+    "SectionID": "22",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 198,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  },
+  {
+    "CaseMasterID": 199,
+    "ActID": "NDPS",
+    "SectionID": "29",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 199,
+    "ActID": "NDPS",
+    "SectionID": "27",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 200,
+    "ActID": "MV",
+    "SectionID": "185",
+    "ActOrderID": 1,
+    "SectionOrderID": 1
+  },
+  {
+    "CaseMasterID": 200,
+    "ActID": "MV",
+    "SectionID": "134",
+    "ActOrderID": 1,
+    "SectionOrderID": 2
+  },
+  {
+    "CaseMasterID": 200,
+    "ActID": "MV",
+    "SectionID": "177",
+    "ActOrderID": 1,
+    "SectionOrderID": 3
+  }
+]

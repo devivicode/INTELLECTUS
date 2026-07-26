@@ -1,0 +1,142 @@
+[
+  {
+    "CrimeHeadID": 1,
+    "ActCode": "IPC",
+    "SectionCode": "302"
+  },
+  {
+    "CrimeHeadID": 1,
+    "ActCode": "IPC",
+    "SectionCode": "307"
+  },
+  {
+    "CrimeHeadID": 1,
+    "ActCode": "IPC",
+    "SectionCode": "323"
+  },
+  {
+    "CrimeHeadID": 1,
+    "ActCode": "IPC",
+    "SectionCode": "324"
+  },
+  {
+    "CrimeHeadID": 2,
+    "ActCode": "IPC",
+    "SectionCode": "392"
+  },
+  {
+    "CrimeHeadID": 2,
+    "ActCode": "IPC",
+    "SectionCode": "395"
+  },
+  {
+    "CrimeHeadID": 2,
+    "ActCode": "IPC",
+    "SectionCode": "379"
+  },
+  {
+    "CrimeHeadID": 2,
+    "ActCode": "IPC",
+    "SectionCode": "380"
+  },
+  {
+    "CrimeHeadID": 3,
+    "ActCode": "IPC",
+    "SectionCode": "376"
+  },
+  {
+    "CrimeHeadID": 3,
+    "ActCode": "IPC",
+    "SectionCode": "304B"
+  },
+  {
+    "CrimeHeadID": 3,
+    "ActCode": "IPC",
+    "SectionCode": "498A"
+  },
+  {
+    "CrimeHeadID": 3,
+    "ActCode": "DV",
+    "SectionCode": "3"
+  },
+  {
+    "CrimeHeadID": 4,
+    "ActCode": "POCSO",
+    "SectionCode": "3"
+  },
+  {
+    "CrimeHeadID": 4,
+    "ActCode": "POCSO",
+    "SectionCode": "5"
+  },
+  {
+    "CrimeHeadID": 4,
+    "ActCode": "POCSO",
+    "SectionCode": "7"
+  },
+  {
+    "CrimeHeadID": 4,
+    "ActCode": "IPC",
+    "SectionCode": "363"
+  },
+  {
+    "CrimeHeadID": 5,
+    "ActCode": "IT",
+    "SectionCode": "66"
+  },
+  {
+    "CrimeHeadID": 5,
+    "ActCode": "IT",
+    "SectionCode": "66C"
+  },
+  {
+    "CrimeHeadID": 5,
+    "ActCode": "IT",
+    "SectionCode": "66D"
+  },
+  {
+    "CrimeHeadID": 6,
+    "ActCode": "IPC",
+    "SectionCode": "420"
+  },
+  {
+    "CrimeHeadID": 6,
+    "ActCode": "IPC",
+    "SectionCode": "406"
+  },
+  {
+    "CrimeHeadID": 7,
+    "ActCode": "NDPS",
+    "SectionCode": "20"
+  },
+  {
+    "CrimeHeadID": 7,
+    "ActCode": "NDPS",
+    "SectionCode": "21"
+  },
+  {
+    "CrimeHeadID": 7,
+    "ActCode": "NDPS",
+    "SectionCode": "27"
+  },
+  {
+    "CrimeHeadID": 8,
+    "ActCode": "MV",
+    "SectionCode": "112"
+  },
+  {
+    "CrimeHeadID": 8,
+    "ActCode": "MV",
+    "SectionCode": "184"
+  },
+  {
+    "CrimeHeadID": 8,
+    "ActCode": "MV",
+    "SectionCode": "185"
+  },
+  {
+    "CrimeHeadID": 8,
+    "ActCode": "IPC",
+    "SectionCode": "304"
+  }
+]

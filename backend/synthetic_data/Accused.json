@@ -1,0 +1,2242 @@
+[
+  {
+    "AccusedMasterID": 1,
+    "CaseMasterID": 1,
+    "AccusedName": "Maya Bath",
+    "AgeYear": 38,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 2,
+    "CaseMasterID": 1,
+    "AccusedName": "Fiyaz Chacko",
+    "AgeYear": 62,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 3,
+    "CaseMasterID": 1,
+    "AccusedName": "Harita Mohanty",
+    "AgeYear": 32,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 4,
+    "CaseMasterID": 1,
+    "AccusedName": "Qasim Mistry",
+    "AgeYear": 18,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 5,
+    "CaseMasterID": 2,
+    "AccusedName": "Umang Rau",
+    "AgeYear": 19,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 6,
+    "CaseMasterID": 3,
+    "AccusedName": "Aadhya Kade",
+    "AgeYear": 54,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 7,
+    "CaseMasterID": 3,
+    "AccusedName": "Aarnav Wason",
+    "AgeYear": 23,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 8,
+    "CaseMasterID": 4,
+    "AccusedName": "Krisha Pandya",
+    "AgeYear": 21,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 9,
+    "CaseMasterID": 5,
+    "AccusedName": "Anay Parmar",
+    "AgeYear": 40,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 10,
+    "CaseMasterID": 5,
+    "AccusedName": "Tanmayi Gala",
+    "AgeYear": 64,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 11,
+    "CaseMasterID": 6,
+    "AccusedName": "Bhanumati Vala",
+    "AgeYear": 23,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 12,
+    "CaseMasterID": 6,
+    "AccusedName": "Alexander Desai",
+    "AgeYear": 27,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 13,
+    "CaseMasterID": 7,
+    "AccusedName": "Xiti Deo",
+    "AgeYear": 45,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 14,
+    "CaseMasterID": 7,
+    "AccusedName": "Manan Buch",
+    "AgeYear": 20,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 15,
+    "CaseMasterID": 7,
+    "AccusedName": "Tanay Sagar",
+    "AgeYear": 45,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 16,
+    "CaseMasterID": 8,
+    "AccusedName": "Yachana Mital",
+    "AgeYear": 60,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 17,
+    "CaseMasterID": 8,
+    "AccusedName": "Udyati Mallick",
+    "AgeYear": 65,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 18,
+    "CaseMasterID": 8,
+    "AccusedName": "Chandani Bawa",
+    "AgeYear": 32,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 19,
+    "CaseMasterID": 8,
+    "AccusedName": "Finn Sankaran",
+    "AgeYear": 65,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 20,
+    "CaseMasterID": 9,
+    "AccusedName": "Kamya Sharaf",
+    "AgeYear": 65,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 21,
+    "CaseMasterID": 9,
+    "AccusedName": "Eshana Naik",
+    "AgeYear": 40,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 22,
+    "CaseMasterID": 9,
+    "AccusedName": "Yash Lata",
+    "AgeYear": 37,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 23,
+    "CaseMasterID": 10,
+    "AccusedName": "Onveer Khatri",
+    "AgeYear": 32,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 24,
+    "CaseMasterID": 10,
+    "AccusedName": "Anvi Madan",
+    "AgeYear": 44,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 25,
+    "CaseMasterID": 10,
+    "AccusedName": "Girish Khurana",
+    "AgeYear": 47,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 26,
+    "CaseMasterID": 11,
+    "AccusedName": "Fiyaz Bali",
+    "AgeYear": 27,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 27,
+    "CaseMasterID": 11,
+    "AccusedName": "Zehaan Morar",
+    "AgeYear": 47,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 28,
+    "CaseMasterID": 11,
+    "AccusedName": "Unni Garde",
+    "AgeYear": 25,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 29,
+    "CaseMasterID": 11,
+    "AccusedName": "Arya Zacharia",
+    "AgeYear": 65,
+    "GenderID": "F",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 30,
+    "CaseMasterID": 12,
+    "AccusedName": "Dayamai Devan",
+    "AgeYear": 55,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 31,
+    "CaseMasterID": 12,
+    "AccusedName": "Kavya Ravi",
+    "AgeYear": 22,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 32,
+    "CaseMasterID": 13,
+    "AccusedName": "Diya Lal",
+    "AgeYear": 22,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 33,
+    "CaseMasterID": 13,
+    "AccusedName": "Idika Ratti",
+    "AgeYear": 20,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 34,
+    "CaseMasterID": 13,
+    "AccusedName": "Kavya Babu",
+    "AgeYear": 52,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 35,
+    "CaseMasterID": 14,
+    "AccusedName": "Vedhika Grover",
+    "AgeYear": 65,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 36,
+    "CaseMasterID": 14,
+    "AccusedName": "Vyanjana Bhagat",
+    "AgeYear": 17,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 37,
+    "CaseMasterID": 14,
+    "AccusedName": "Bhavna Arora",
+    "AgeYear": 25,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 38,
+    "CaseMasterID": 15,
+    "AccusedName": "Qushi Jaggi",
+    "AgeYear": 18,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 39,
+    "CaseMasterID": 16,
+    "AccusedName": "Ladli Suri",
+    "AgeYear": 33,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 40,
+    "CaseMasterID": 16,
+    "AccusedName": "Yagnesh Memon",
+    "AgeYear": 60,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 41,
+    "CaseMasterID": 16,
+    "AccusedName": "Joshua Sharaf",
+    "AgeYear": 41,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 42,
+    "CaseMasterID": 16,
+    "AccusedName": "Arin Sidhu",
+    "AgeYear": 16,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 43,
+    "CaseMasterID": 17,
+    "AccusedName": "Kala Kota",
+    "AgeYear": 46,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 44,
+    "CaseMasterID": 17,
+    "AccusedName": "Chatura Chatterjee",
+    "AgeYear": 41,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 45,
+    "CaseMasterID": 17,
+    "AccusedName": "Priya Dhar",
+    "AgeYear": 65,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 46,
+    "CaseMasterID": 17,
+    "AccusedName": "Mason Chokshi",
+    "AgeYear": 50,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 47,
+    "CaseMasterID": 18,
+    "AccusedName": "Rachit Pall",
+    "AgeYear": 40,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 48,
+    "CaseMasterID": 19,
+    "AccusedName": "Henry Rau",
+    "AgeYear": 23,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 49,
+    "CaseMasterID": 19,
+    "AccusedName": "Omkaar Dasgupta",
+    "AgeYear": 50,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 50,
+    "CaseMasterID": 19,
+    "AccusedName": "Peter Karpe",
+    "AgeYear": 37,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 51,
+    "CaseMasterID": 19,
+    "AccusedName": "Neelima Bhakta",
+    "AgeYear": 35,
+    "GenderID": "F",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 52,
+    "CaseMasterID": 20,
+    "AccusedName": "Dhriti Jayaraman",
+    "AgeYear": 56,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 53,
+    "CaseMasterID": 21,
+    "AccusedName": "Hemal Kala",
+    "AgeYear": 39,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 54,
+    "CaseMasterID": 22,
+    "AccusedName": "Nicholas Nagarajan",
+    "AgeYear": 21,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 55,
+    "CaseMasterID": 22,
+    "AccusedName": "Chameli D\u2019Alia",
+    "AgeYear": 64,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 56,
+    "CaseMasterID": 22,
+    "AccusedName": "Onkar Gupta",
+    "AgeYear": 57,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 57,
+    "CaseMasterID": 23,
+    "AccusedName": "Ishita Sachdeva",
+    "AgeYear": 51,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 58,
+    "CaseMasterID": 23,
+    "AccusedName": "Vaishnavi Kapadia",
+    "AgeYear": 40,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 59,
+    "CaseMasterID": 24,
+    "AccusedName": "Amrita Narula",
+    "AgeYear": 35,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 60,
+    "CaseMasterID": 24,
+    "AccusedName": "Udarsh Varty",
+    "AgeYear": 40,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 61,
+    "CaseMasterID": 25,
+    "AccusedName": "Xalak Solanki",
+    "AgeYear": 47,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 62,
+    "CaseMasterID": 25,
+    "AccusedName": "Bhavini Sathe",
+    "AgeYear": 56,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 63,
+    "CaseMasterID": 25,
+    "AccusedName": "Saksham Comar",
+    "AgeYear": 63,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 64,
+    "CaseMasterID": 26,
+    "AccusedName": "Fitan Kumar",
+    "AgeYear": 18,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 65,
+    "CaseMasterID": 26,
+    "AccusedName": "Bakhshi Pandit",
+    "AgeYear": 17,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 66,
+    "CaseMasterID": 27,
+    "AccusedName": "Ekaja Sami",
+    "AgeYear": 47,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 67,
+    "CaseMasterID": 27,
+    "AccusedName": "Farhan Kulkarni",
+    "AgeYear": 20,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 68,
+    "CaseMasterID": 28,
+    "AccusedName": "Aachal Kumar",
+    "AgeYear": 47,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 69,
+    "CaseMasterID": 28,
+    "AccusedName": "Dalbir Sandal",
+    "AgeYear": 44,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 70,
+    "CaseMasterID": 28,
+    "AccusedName": "Oni Shroff",
+    "AgeYear": 18,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 71,
+    "CaseMasterID": 29,
+    "AccusedName": "Bhavani Kamdar",
+    "AgeYear": 37,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 72,
+    "CaseMasterID": 30,
+    "AccusedName": "Dipta Mand",
+    "AgeYear": 41,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 73,
+    "CaseMasterID": 31,
+    "AccusedName": "Kavya Desai",
+    "AgeYear": 57,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 74,
+    "CaseMasterID": 31,
+    "AccusedName": "Oeshi Saran",
+    "AgeYear": 49,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 75,
+    "CaseMasterID": 32,
+    "AccusedName": "Suhani Nagarajan",
+    "AgeYear": 63,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 76,
+    "CaseMasterID": 32,
+    "AccusedName": "Gaurav Kibe",
+    "AgeYear": 30,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 77,
+    "CaseMasterID": 33,
+    "AccusedName": "Yutika Amble",
+    "AgeYear": 63,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 78,
+    "CaseMasterID": 34,
+    "AccusedName": "Nidra Rajagopalan",
+    "AgeYear": 57,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 79,
+    "CaseMasterID": 34,
+    "AccusedName": "Christopher Mand",
+    "AgeYear": 46,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 80,
+    "CaseMasterID": 34,
+    "AccusedName": "Ansh Parmar",
+    "AgeYear": 18,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 81,
+    "CaseMasterID": 34,
+    "AccusedName": "Vritti Aurora",
+    "AgeYear": 60,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 82,
+    "CaseMasterID": 35,
+    "AccusedName": "Barkha Ganesh",
+    "AgeYear": 16,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 83,
+    "CaseMasterID": 35,
+    "AccusedName": "Odika D\u2019Alia",
+    "AgeYear": 56,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 84,
+    "CaseMasterID": 36,
+    "AccusedName": "Utkarsh Butala",
+    "AgeYear": 22,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 85,
+    "CaseMasterID": 36,
+    "AccusedName": "Ikshita Chadha",
+    "AgeYear": 55,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 86,
+    "CaseMasterID": 36,
+    "AccusedName": "Panini Prabhu",
+    "AgeYear": 53,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 87,
+    "CaseMasterID": 37,
+    "AccusedName": "Aadi Sahota",
+    "AgeYear": 23,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 88,
+    "CaseMasterID": 38,
+    "AccusedName": "Darpan Dhar",
+    "AgeYear": 20,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 89,
+    "CaseMasterID": 38,
+    "AccusedName": "Chameli Gala",
+    "AgeYear": 43,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 90,
+    "CaseMasterID": 39,
+    "AccusedName": "Nidhi Kumer",
+    "AgeYear": 36,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 91,
+    "CaseMasterID": 39,
+    "AccusedName": "Aradhana Sharma",
+    "AgeYear": 59,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 92,
+    "CaseMasterID": 39,
+    "AccusedName": "Jack Karnik",
+    "AgeYear": 50,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 93,
+    "CaseMasterID": 39,
+    "AccusedName": "Ekani Kara",
+    "AgeYear": 36,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 94,
+    "CaseMasterID": 40,
+    "AccusedName": "Shravya Brahmbhatt",
+    "AgeYear": 53,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 95,
+    "CaseMasterID": 41,
+    "AccusedName": "Varenya Sarin",
+    "AgeYear": 20,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 96,
+    "CaseMasterID": 41,
+    "AccusedName": "Nicholas Sodhi",
+    "AgeYear": 33,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 97,
+    "CaseMasterID": 41,
+    "AccusedName": "Nicholas Hayer",
+    "AgeYear": 64,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 98,
+    "CaseMasterID": 42,
+    "AccusedName": "Kalpit Ahluwalia",
+    "AgeYear": 60,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 99,
+    "CaseMasterID": 42,
+    "AccusedName": "Fiyaz Hayer",
+    "AgeYear": 51,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 100,
+    "CaseMasterID": 43,
+    "AccusedName": "Sanaya Srinivas",
+    "AgeYear": 31,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 101,
+    "CaseMasterID": 43,
+    "AccusedName": "Rachita Gill",
+    "AgeYear": 18,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 102,
+    "CaseMasterID": 43,
+    "AccusedName": "Ansh Khosla",
+    "AgeYear": 22,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 103,
+    "CaseMasterID": 43,
+    "AccusedName": "Megha Krishnan",
+    "AgeYear": 55,
+    "GenderID": "F",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 104,
+    "CaseMasterID": 44,
+    "AccusedName": "Maanav Dutta",
+    "AgeYear": 17,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 105,
+    "CaseMasterID": 44,
+    "AccusedName": "Forum Bir",
+    "AgeYear": 21,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 106,
+    "CaseMasterID": 45,
+    "AccusedName": "Samarth Zacharia",
+    "AgeYear": 27,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 107,
+    "CaseMasterID": 46,
+    "AccusedName": "Tanveer Joshi",
+    "AgeYear": 42,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 108,
+    "CaseMasterID": 46,
+    "AccusedName": "Yasti Pandya",
+    "AgeYear": 65,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 109,
+    "CaseMasterID": 46,
+    "AccusedName": "Chandani Kapoor",
+    "AgeYear": 60,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 110,
+    "CaseMasterID": 47,
+    "AccusedName": "Yoshita Sodhi",
+    "AgeYear": 25,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 111,
+    "CaseMasterID": 47,
+    "AccusedName": "Imaran Sangha",
+    "AgeYear": 33,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 112,
+    "CaseMasterID": 48,
+    "AccusedName": "Jackson Dutta",
+    "AgeYear": 42,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 113,
+    "CaseMasterID": 48,
+    "AccusedName": "Tara Gopal",
+    "AgeYear": 27,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 114,
+    "CaseMasterID": 48,
+    "AccusedName": "Sneha Varghese",
+    "AgeYear": 60,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 115,
+    "CaseMasterID": 48,
+    "AccusedName": "Saksham Tank",
+    "AgeYear": 54,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 116,
+    "CaseMasterID": 49,
+    "AccusedName": "Devansh Parikh",
+    "AgeYear": 55,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 117,
+    "CaseMasterID": 49,
+    "AccusedName": "Bachittar Nanda",
+    "AgeYear": 56,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 118,
+    "CaseMasterID": 49,
+    "AccusedName": "Urishilla Sachdev",
+    "AgeYear": 38,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 119,
+    "CaseMasterID": 49,
+    "AccusedName": "Upkaar Parekh",
+    "AgeYear": 16,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 120,
+    "CaseMasterID": 50,
+    "AccusedName": "Ayush Sinha",
+    "AgeYear": 28,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 121,
+    "CaseMasterID": 50,
+    "AccusedName": "Adweta Randhawa",
+    "AgeYear": 49,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 122,
+    "CaseMasterID": 51,
+    "AccusedName": "Girindra Nori",
+    "AgeYear": 64,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 123,
+    "CaseMasterID": 51,
+    "AccusedName": "Mitesh Sheth",
+    "AgeYear": 48,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 124,
+    "CaseMasterID": 51,
+    "AccusedName": "Darpan Pandey",
+    "AgeYear": 45,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 125,
+    "CaseMasterID": 52,
+    "AccusedName": "Kashish Rajan",
+    "AgeYear": 33,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 126,
+    "CaseMasterID": 52,
+    "AccusedName": "Upadhriti Shere",
+    "AgeYear": 28,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 127,
+    "CaseMasterID": 53,
+    "AccusedName": "Upkaar Sharaf",
+    "AgeYear": 59,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 128,
+    "CaseMasterID": 53,
+    "AccusedName": "Rachita Salvi",
+    "AgeYear": 47,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 129,
+    "CaseMasterID": 54,
+    "AccusedName": "Liam Ravel",
+    "AgeYear": 58,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 130,
+    "CaseMasterID": 54,
+    "AccusedName": "Girish Dash",
+    "AgeYear": 19,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 131,
+    "CaseMasterID": 55,
+    "AccusedName": "Ekaja More",
+    "AgeYear": 34,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 132,
+    "CaseMasterID": 55,
+    "AccusedName": "Chaman Bhatt",
+    "AgeYear": 43,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 133,
+    "CaseMasterID": 55,
+    "AccusedName": "Urvi Karnik",
+    "AgeYear": 37,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 134,
+    "CaseMasterID": 56,
+    "AccusedName": "Ishaan Kalla",
+    "AgeYear": 18,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 135,
+    "CaseMasterID": 56,
+    "AccusedName": "Daniel Bora",
+    "AgeYear": 63,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 136,
+    "CaseMasterID": 56,
+    "AccusedName": "Anusha Randhawa",
+    "AgeYear": 50,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 137,
+    "CaseMasterID": 56,
+    "AccusedName": "Ekta Mand",
+    "AgeYear": 26,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 138,
+    "CaseMasterID": 57,
+    "AccusedName": "Rohan Goswami",
+    "AgeYear": 48,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 139,
+    "CaseMasterID": 57,
+    "AccusedName": "Qadim Mander",
+    "AgeYear": 20,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 140,
+    "CaseMasterID": 57,
+    "AccusedName": "Lekha Pai",
+    "AgeYear": 62,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 141,
+    "CaseMasterID": 57,
+    "AccusedName": "Gautami Karnik",
+    "AgeYear": 53,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 142,
+    "CaseMasterID": 58,
+    "AccusedName": "Aarush Mane",
+    "AgeYear": 42,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 143,
+    "CaseMasterID": 58,
+    "AccusedName": "Yashodhara Mishra",
+    "AgeYear": 63,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 144,
+    "CaseMasterID": 58,
+    "AccusedName": "Hamsini Lata",
+    "AgeYear": 36,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 145,
+    "CaseMasterID": 59,
+    "AccusedName": "Ekapad Deshmukh",
+    "AgeYear": 36,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 146,
+    "CaseMasterID": 60,
+    "AccusedName": "Wridesh Thaker",
+    "AgeYear": 31,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 147,
+    "CaseMasterID": 61,
+    "AccusedName": "Chaitaly Devi",
+    "AgeYear": 28,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 148,
+    "CaseMasterID": 61,
+    "AccusedName": "Chasmum Nair",
+    "AgeYear": 30,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 149,
+    "CaseMasterID": 61,
+    "AccusedName": "Zansi Mand",
+    "AgeYear": 46,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 150,
+    "CaseMasterID": 61,
+    "AccusedName": "Leena Parikh",
+    "AgeYear": 47,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 151,
+    "CaseMasterID": 62,
+    "AccusedName": "Arjun Ram",
+    "AgeYear": 25,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 152,
+    "CaseMasterID": 62,
+    "AccusedName": "Yagnesh Keer",
+    "AgeYear": 55,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 153,
+    "CaseMasterID": 62,
+    "AccusedName": "Chatresh Manne",
+    "AgeYear": 27,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 154,
+    "CaseMasterID": 62,
+    "AccusedName": "Qasim Keer",
+    "AgeYear": 39,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 155,
+    "CaseMasterID": 63,
+    "AccusedName": "Gaurang Gaba",
+    "AgeYear": 62,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 156,
+    "CaseMasterID": 63,
+    "AccusedName": "Yahvi Andra",
+    "AgeYear": 56,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 157,
+    "CaseMasterID": 63,
+    "AccusedName": "Atharv Raja",
+    "AgeYear": 33,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 158,
+    "CaseMasterID": 63,
+    "AccusedName": "Chandresh Kunda",
+    "AgeYear": 37,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 159,
+    "CaseMasterID": 64,
+    "AccusedName": "Abhiram Gaba",
+    "AgeYear": 60,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 160,
+    "CaseMasterID": 65,
+    "AccusedName": "Irya Chaudry",
+    "AgeYear": 33,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 161,
+    "CaseMasterID": 66,
+    "AccusedName": "Ishani Gill",
+    "AgeYear": 45,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 162,
+    "CaseMasterID": 67,
+    "AccusedName": "Yamini Mody",
+    "AgeYear": 26,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 163,
+    "CaseMasterID": 67,
+    "AccusedName": "Victor Chand",
+    "AgeYear": 30,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 164,
+    "CaseMasterID": 67,
+    "AccusedName": "Ira Narayan",
+    "AgeYear": 54,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 165,
+    "CaseMasterID": 67,
+    "AccusedName": "Ekalinga Gill",
+    "AgeYear": 56,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 166,
+    "CaseMasterID": 68,
+    "AccusedName": "Aryan Kala",
+    "AgeYear": 52,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 167,
+    "CaseMasterID": 68,
+    "AccusedName": "Urvashi Bansal",
+    "AgeYear": 30,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 168,
+    "CaseMasterID": 69,
+    "AccusedName": "Ojas Gandhi",
+    "AgeYear": 49,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 169,
+    "CaseMasterID": 69,
+    "AccusedName": "Yashasvi Iyengar",
+    "AgeYear": 29,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 170,
+    "CaseMasterID": 69,
+    "AccusedName": "Jeevika Rastogi",
+    "AgeYear": 46,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 171,
+    "CaseMasterID": 69,
+    "AccusedName": "Aarna Venkatesh",
+    "AgeYear": 33,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 172,
+    "CaseMasterID": 70,
+    "AccusedName": "Chatura Purohit",
+    "AgeYear": 63,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 173,
+    "CaseMasterID": 70,
+    "AccusedName": "Chanchal Iyengar",
+    "AgeYear": 31,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 174,
+    "CaseMasterID": 70,
+    "AccusedName": "Balhaar Natarajan",
+    "AgeYear": 43,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 175,
+    "CaseMasterID": 70,
+    "AccusedName": "Radha Madan",
+    "AgeYear": 30,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 176,
+    "CaseMasterID": 71,
+    "AccusedName": "Indira Dyal",
+    "AgeYear": 52,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 177,
+    "CaseMasterID": 71,
+    "AccusedName": "Advika Setty",
+    "AgeYear": 42,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 178,
+    "CaseMasterID": 72,
+    "AccusedName": "Daksh Sarraf",
+    "AgeYear": 46,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 179,
+    "CaseMasterID": 73,
+    "AccusedName": "Saumya Kapadia",
+    "AgeYear": 43,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 180,
+    "CaseMasterID": 74,
+    "AccusedName": "Vanya Nagar",
+    "AgeYear": 46,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 181,
+    "CaseMasterID": 74,
+    "AccusedName": "Eshana Grewal",
+    "AgeYear": 22,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 182,
+    "CaseMasterID": 74,
+    "AccusedName": "Ranveer Shanker",
+    "AgeYear": 47,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 183,
+    "CaseMasterID": 74,
+    "AccusedName": "Ojasvi Rau",
+    "AgeYear": 21,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 184,
+    "CaseMasterID": 75,
+    "AccusedName": "Siya Parmer",
+    "AgeYear": 60,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 185,
+    "CaseMasterID": 76,
+    "AccusedName": "Amrita Mitra",
+    "AgeYear": 29,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 186,
+    "CaseMasterID": 76,
+    "AccusedName": "Falak Chhabra",
+    "AgeYear": 38,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 187,
+    "CaseMasterID": 76,
+    "AccusedName": "Vansha Dhawan",
+    "AgeYear": 31,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 188,
+    "CaseMasterID": 76,
+    "AccusedName": "Om Uppal",
+    "AgeYear": 21,
+    "GenderID": "M",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 189,
+    "CaseMasterID": 77,
+    "AccusedName": "Alexander Bali",
+    "AgeYear": 58,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 190,
+    "CaseMasterID": 77,
+    "AccusedName": "Radhika Barad",
+    "AgeYear": 26,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 191,
+    "CaseMasterID": 77,
+    "AccusedName": "Varsha Pillai",
+    "AgeYear": 45,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 192,
+    "CaseMasterID": 77,
+    "AccusedName": "Saumya Brahmbhatt",
+    "AgeYear": 63,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 193,
+    "CaseMasterID": 78,
+    "AccusedName": "Jairaj Dash",
+    "AgeYear": 45,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 194,
+    "CaseMasterID": 79,
+    "AccusedName": "Advaith Dugal",
+    "AgeYear": 61,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 195,
+    "CaseMasterID": 79,
+    "AccusedName": "Arin Khatri",
+    "AgeYear": 27,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 196,
+    "CaseMasterID": 80,
+    "AccusedName": "Naveen Sengupta",
+    "AgeYear": 61,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 197,
+    "CaseMasterID": 80,
+    "AccusedName": "Ishita Rege",
+    "AgeYear": 16,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 198,
+    "CaseMasterID": 80,
+    "AccusedName": "Rushil Tak",
+    "AgeYear": 20,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 199,
+    "CaseMasterID": 80,
+    "AccusedName": "Tristan Gulati",
+    "AgeYear": 60,
+    "GenderID": "F",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 200,
+    "CaseMasterID": 81,
+    "AccusedName": "Harshil Kashyap",
+    "AgeYear": 34,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 201,
+    "CaseMasterID": 82,
+    "AccusedName": "Aachal Bhatnagar",
+    "AgeYear": 60,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 202,
+    "CaseMasterID": 82,
+    "AccusedName": "Naksh Wali",
+    "AgeYear": 50,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 203,
+    "CaseMasterID": 82,
+    "AccusedName": "Urmi Lalla",
+    "AgeYear": 29,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 204,
+    "CaseMasterID": 83,
+    "AccusedName": "Wriddhish Datta",
+    "AgeYear": 55,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 205,
+    "CaseMasterID": 84,
+    "AccusedName": "Naksh Dalal",
+    "AgeYear": 48,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 206,
+    "CaseMasterID": 85,
+    "AccusedName": "Chatura Kuruvilla",
+    "AgeYear": 19,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 207,
+    "CaseMasterID": 85,
+    "AccusedName": "Ranveer Kumar",
+    "AgeYear": 40,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 208,
+    "CaseMasterID": 85,
+    "AccusedName": "Lajita Lad",
+    "AgeYear": 45,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 209,
+    "CaseMasterID": 86,
+    "AccusedName": "Idika Chowdhury",
+    "AgeYear": 39,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 210,
+    "CaseMasterID": 87,
+    "AccusedName": "Omkaar Chokshi",
+    "AgeYear": 57,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 211,
+    "CaseMasterID": 87,
+    "AccusedName": "Harshil Thaker",
+    "AgeYear": 61,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 212,
+    "CaseMasterID": 88,
+    "AccusedName": "Caleb Buch",
+    "AgeYear": 24,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 213,
+    "CaseMasterID": 88,
+    "AccusedName": "Charita Koshy",
+    "AgeYear": 31,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 214,
+    "CaseMasterID": 89,
+    "AccusedName": "Vivaan Mohan",
+    "AgeYear": 57,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 215,
+    "CaseMasterID": 90,
+    "AccusedName": "Bimala Rajagopalan",
+    "AgeYear": 64,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 216,
+    "CaseMasterID": 90,
+    "AccusedName": "Aayush Sharma",
+    "AgeYear": 64,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 217,
+    "CaseMasterID": 91,
+    "AccusedName": "Ishaan Pant",
+    "AgeYear": 38,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 218,
+    "CaseMasterID": 91,
+    "AccusedName": "Siya Ganesh",
+    "AgeYear": 48,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 219,
+    "CaseMasterID": 91,
+    "AccusedName": "Wridesh Mohan",
+    "AgeYear": 43,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 220,
+    "CaseMasterID": 92,
+    "AccusedName": "Kiaan Kalla",
+    "AgeYear": 20,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 221,
+    "CaseMasterID": 93,
+    "AccusedName": "Mitali Mander",
+    "AgeYear": 44,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 222,
+    "CaseMasterID": 93,
+    "AccusedName": "Aradhana Mander",
+    "AgeYear": 48,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 223,
+    "CaseMasterID": 93,
+    "AccusedName": "Aradhana Mahajan",
+    "AgeYear": 23,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 224,
+    "CaseMasterID": 94,
+    "AccusedName": "Aryan Chahal",
+    "AgeYear": 44,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 225,
+    "CaseMasterID": 94,
+    "AccusedName": "Reyansh Shah",
+    "AgeYear": 39,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 226,
+    "CaseMasterID": 94,
+    "AccusedName": "Meera Bahri",
+    "AgeYear": 60,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 227,
+    "CaseMasterID": 95,
+    "AccusedName": "Thomas Konda",
+    "AgeYear": 45,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 228,
+    "CaseMasterID": 95,
+    "AccusedName": "Aarush Gandhi",
+    "AgeYear": 21,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 229,
+    "CaseMasterID": 96,
+    "AccusedName": "Rohan Walia",
+    "AgeYear": 34,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 230,
+    "CaseMasterID": 96,
+    "AccusedName": "Nicholas Iyer",
+    "AgeYear": 22,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 231,
+    "CaseMasterID": 97,
+    "AccusedName": "Darika Tailor",
+    "AgeYear": 23,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 232,
+    "CaseMasterID": 97,
+    "AccusedName": "Nicholas Cheema",
+    "AgeYear": 25,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 233,
+    "CaseMasterID": 97,
+    "AccusedName": "Vedhika Hari",
+    "AgeYear": 25,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 234,
+    "CaseMasterID": 98,
+    "AccusedName": "Chandani Prasad",
+    "AgeYear": 34,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 235,
+    "CaseMasterID": 99,
+    "AccusedName": "Urishilla Gandhi",
+    "AgeYear": 46,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 236,
+    "CaseMasterID": 99,
+    "AccusedName": "Balendra Bhatt",
+    "AgeYear": 42,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 237,
+    "CaseMasterID": 100,
+    "AccusedName": "Ekbal Joshi",
+    "AgeYear": 34,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 238,
+    "CaseMasterID": 101,
+    "AccusedName": "Shivansh Rana",
+    "AgeYear": 17,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 239,
+    "CaseMasterID": 102,
+    "AccusedName": "Onveer Shan",
+    "AgeYear": 42,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 240,
+    "CaseMasterID": 102,
+    "AccusedName": "Abhiram Dey",
+    "AgeYear": 37,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 241,
+    "CaseMasterID": 102,
+    "AccusedName": "Advay Majumdar",
+    "AgeYear": 57,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 242,
+    "CaseMasterID": 103,
+    "AccusedName": "David Mangat",
+    "AgeYear": 53,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 243,
+    "CaseMasterID": 103,
+    "AccusedName": "Peter Halder",
+    "AgeYear": 60,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 244,
+    "CaseMasterID": 103,
+    "AccusedName": "Harinakshi Raj",
+    "AgeYear": 51,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 245,
+    "CaseMasterID": 103,
+    "AccusedName": "Gagan Joshi",
+    "AgeYear": 45,
+    "GenderID": "F",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 246,
+    "CaseMasterID": 104,
+    "AccusedName": "Gunbir Bawa",
+    "AgeYear": 35,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 247,
+    "CaseMasterID": 104,
+    "AccusedName": "Qadim Rattan",
+    "AgeYear": 32,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 248,
+    "CaseMasterID": 105,
+    "AccusedName": "Rachit Dyal",
+    "AgeYear": 39,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 249,
+    "CaseMasterID": 105,
+    "AccusedName": "Veer Kari",
+    "AgeYear": 65,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 250,
+    "CaseMasterID": 105,
+    "AccusedName": "Chandresh Mallick",
+    "AgeYear": 25,
+    "GenderID": "F",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 251,
+    "CaseMasterID": 105,
+    "AccusedName": "Urvi Brar",
+    "AgeYear": 34,
+    "GenderID": "F",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 252,
+    "CaseMasterID": 106,
+    "AccusedName": "Dhriti Nadkarni",
+    "AgeYear": 55,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 253,
+    "CaseMasterID": 106,
+    "AccusedName": "Udarsh Vig",
+    "AgeYear": 61,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 254,
+    "CaseMasterID": 107,
+    "AccusedName": "Charvi Garg",
+    "AgeYear": 27,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 255,
+    "CaseMasterID": 107,
+    "AccusedName": "Harinakshi Bhardwaj",
+    "AgeYear": 61,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 256,
+    "CaseMasterID": 107,
+    "AccusedName": "Hemangini Bala",
+    "AgeYear": 58,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 257,
+    "CaseMasterID": 108,
+    "AccusedName": "Bhavya Brahmbhatt",
+    "AgeYear": 31,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 258,
+    "CaseMasterID": 108,
+    "AccusedName": "Hema Ratti",
+    "AgeYear": 18,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 259,
+    "CaseMasterID": 109,
+    "AccusedName": "Rudra Kaul",
+    "AgeYear": 44,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 260,
+    "CaseMasterID": 109,
+    "AccusedName": "Yauvani Devi",
+    "AgeYear": 39,
+    "GenderID": "M",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 261,
+    "CaseMasterID": 110,
+    "AccusedName": "Ojasvi Reddy",
+    "AgeYear": 51,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 262,
+    "CaseMasterID": 110,
+    "AccusedName": "Nihal Deshpande",
+    "AgeYear": 18,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 263,
+    "CaseMasterID": 111,
+    "AccusedName": "Vasana Nagar",
+    "AgeYear": 38,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 264,
+    "CaseMasterID": 111,
+    "AccusedName": "Ekaraj Aggarwal",
+    "AgeYear": 39,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 265,
+    "CaseMasterID": 111,
+    "AccusedName": "Pooja Raj",
+    "AgeYear": 50,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 266,
+    "CaseMasterID": 112,
+    "AccusedName": "Tarak Prabhakar",
+    "AgeYear": 23,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 267,
+    "CaseMasterID": 112,
+    "AccusedName": "Eiravati Wason",
+    "AgeYear": 41,
+    "GenderID": "F",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 268,
+    "CaseMasterID": 112,
+    "AccusedName": "Aadhya Sani",
+    "AgeYear": 65,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 269,
+    "CaseMasterID": 113,
+    "AccusedName": "Ishanvi Radhakrishnan",
+    "AgeYear": 36,
+    "GenderID": "M",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 270,
+    "CaseMasterID": 113,
+    "AccusedName": "Faraj Kulkarni",
+    "AgeYear": 16,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 271,
+    "CaseMasterID": 113,
+    "AccusedName": "Rohan Sharma",
+    "AgeYear": 50,
+    "GenderID": "T",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 272,
+    "CaseMasterID": 113,
+    "AccusedName": "Zayan Doshi",
+    "AgeYear": 37,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 273,
+    "CaseMasterID": 114,
+    "AccusedName": "Jagvi Mangal",
+    "AgeYear": 46,
+    "GenderID": "F",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 274,
+    "CaseMasterID": 114,
+    "AccusedName": "Veer Mandal",
+    "AgeYear": 64,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 275,
+    "CaseMasterID": 114,
+    "AccusedName": "Amruta Pathak",
+    "AgeYear": 58,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 276,
+    "CaseMasterID": 115,
+    "AccusedName": "Manthan Varma",
+    "AgeYear": 37,
+    "GenderID": "T",
+    "PersonID": "A1"
+  },
+  {
+    "AccusedMasterID": 277,
+    "CaseMasterID": 115,
+    "AccusedName": "Dhriti Prakash",
+    "AgeYear": 23,
+    "GenderID": "T",
+    "PersonID": "A2"
+  },
+  {
+    "AccusedMasterID": 278,
+    "CaseMasterID": 115,
+    "AccusedName": "Nathan Naik",
+    "AgeYear": 46,
+    "GenderID": "M",
+    "PersonID": "A3"
+  },
+  {
+    "AccusedMasterID": 279,
+    "CaseMasterID": 115,
+    "AccusedName": "Pratyush Dash",
+    "AgeYear": 24,
+    "GenderID": "T",
+    "PersonID": "A4"
+  },
+  {
+    "AccusedMasterID": 280,
+    "CaseMasterID": 116,
+    "AccusedName": "Akshay Kari",
+    "AgeYear": 35,
+    "GenderID": "M",
+    "PersonID": "A1"
+  }
+]

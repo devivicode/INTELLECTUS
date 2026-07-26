@@ -1,0 +1,38 @@
+[
+  {
+    "DistrictID": 1,
+    "DistrictName": "Bangalore Urban",
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "DistrictID": 2,
+    "DistrictName": "Mysuru",
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "DistrictID": 3,
+    "DistrictName": "Belagavi",
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "DistrictID": 4,
+    "DistrictName": "Hubli-Dharwad",
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "DistrictID": 5,
+    "DistrictName": "Mangaluru",
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "DistrictID": 6,
+    "DistrictName": "Kalaburagi",
+    "StateID": 1,
+    "Active": 1
+  }
+]

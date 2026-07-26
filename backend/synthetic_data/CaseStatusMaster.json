@@ -1,0 +1,30 @@
+[
+  {
+    "CaseStatusID": 1,
+    "CaseStatusName": "Under Investigation"
+  },
+  {
+    "CaseStatusID": 2,
+    "CaseStatusName": "Charge Sheeted"
+  },
+  {
+    "CaseStatusID": 3,
+    "CaseStatusName": "Undetected"
+  },
+  {
+    "CaseStatusID": 4,
+    "CaseStatusName": "Referred to Court"
+  },
+  {
+    "CaseStatusID": 5,
+    "CaseStatusName": "Closed"
+  },
+  {
+    "CaseStatusID": 6,
+    "CaseStatusName": "Pending Final Report"
+  },
+  {
+    "CaseStatusID": 7,
+    "CaseStatusName": "False Case"
+  }
+]

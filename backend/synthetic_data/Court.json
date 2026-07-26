@@ -1,0 +1,72 @@
+[
+  {
+    "CourtID": 1,
+    "CourtName": "Mangaluru High Court Bench",
+    "DistrictID": 5,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 2,
+    "CourtName": "Kalaburagi District and Sessions Court",
+    "DistrictID": 6,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 3,
+    "CourtName": "Mysuru Judicial Magistrate Court",
+    "DistrictID": 2,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 4,
+    "CourtName": "Bangalore Urban High Court Bench",
+    "DistrictID": 1,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 5,
+    "CourtName": "Bangalore Urban Judicial Magistrate Court",
+    "DistrictID": 1,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 6,
+    "CourtName": "Mangaluru Fast Track Court",
+    "DistrictID": 5,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 7,
+    "CourtName": "Hubli-Dharwad CJM Court",
+    "DistrictID": 4,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 8,
+    "CourtName": "Bangalore Urban High Court Bench",
+    "DistrictID": 1,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 9,
+    "CourtName": "Kalaburagi CJM Court",
+    "DistrictID": 6,
+    "StateID": 1,
+    "Active": 1
+  },
+  {
+    "CourtID": 10,
+    "CourtName": "Bangalore Urban Judicial Magistrate Court",
+    "DistrictID": 1,
+    "StateID": 1,
+    "Active": 1
+  }
+]

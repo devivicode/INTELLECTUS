@@ -1,0 +1,2082 @@
+[
+  {
+    "VictimMasterID": 1,
+    "CaseMasterID": 1,
+    "VictimName": "Eesha Narayan",
+    "AgeYear": 23,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 2,
+    "CaseMasterID": 1,
+    "VictimName": "Qarin Mody",
+    "AgeYear": 48,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 3,
+    "CaseMasterID": 2,
+    "VictimName": "Dakshesh Narain",
+    "AgeYear": 56,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 4,
+    "CaseMasterID": 2,
+    "VictimName": "Xalak Dara",
+    "AgeYear": 48,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 5,
+    "CaseMasterID": 2,
+    "VictimName": "Ansh Rattan",
+    "AgeYear": 42,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 6,
+    "CaseMasterID": 3,
+    "VictimName": "Eesha Sethi",
+    "AgeYear": 55,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 7,
+    "CaseMasterID": 3,
+    "VictimName": "Sathvik Bhavsar",
+    "AgeYear": 51,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 8,
+    "CaseMasterID": 3,
+    "VictimName": "Daniel Batta",
+    "AgeYear": 62,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 9,
+    "CaseMasterID": 4,
+    "VictimName": "Kala Mani",
+    "AgeYear": 21,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 10,
+    "CaseMasterID": 5,
+    "VictimName": "Libni Trivedi",
+    "AgeYear": 15,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 11,
+    "CaseMasterID": 5,
+    "VictimName": "Yutika Raja",
+    "AgeYear": 18,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 12,
+    "CaseMasterID": 6,
+    "VictimName": "Chandani Sampath",
+    "AgeYear": 75,
+    "GenderID": 1,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 13,
+    "CaseMasterID": 6,
+    "VictimName": "Hitesh Banik",
+    "AgeYear": 55,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 14,
+    "CaseMasterID": 7,
+    "VictimName": "Garima Chatterjee",
+    "AgeYear": 18,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 15,
+    "CaseMasterID": 8,
+    "VictimName": "Yashica Deshmukh",
+    "AgeYear": 54,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 16,
+    "CaseMasterID": 9,
+    "VictimName": "Krishna Tata",
+    "AgeYear": 41,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 17,
+    "CaseMasterID": 9,
+    "VictimName": "Jhalak Boase",
+    "AgeYear": 21,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 18,
+    "CaseMasterID": 9,
+    "VictimName": "Samaksh Kakar",
+    "AgeYear": 8,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 19,
+    "CaseMasterID": 10,
+    "VictimName": "Mugdha Deshmukh",
+    "AgeYear": 65,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 20,
+    "CaseMasterID": 10,
+    "VictimName": "Hardik Ramachandran",
+    "AgeYear": 74,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 21,
+    "CaseMasterID": 11,
+    "VictimName": "Sarthak Cherian",
+    "AgeYear": 74,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 22,
+    "CaseMasterID": 12,
+    "VictimName": "Harrison Sandhu",
+    "AgeYear": 77,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 23,
+    "CaseMasterID": 12,
+    "VictimName": "Upkaar Verma",
+    "AgeYear": 73,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 24,
+    "CaseMasterID": 13,
+    "VictimName": "Dayamai Hegde",
+    "AgeYear": 74,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 25,
+    "CaseMasterID": 13,
+    "VictimName": "Megha Parmar",
+    "AgeYear": 61,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 26,
+    "CaseMasterID": 14,
+    "VictimName": "Teerth Srinivas",
+    "AgeYear": 24,
+    "GenderID": 2,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 27,
+    "CaseMasterID": 14,
+    "VictimName": "Tripti Dhillon",
+    "AgeYear": 71,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 28,
+    "CaseMasterID": 15,
+    "VictimName": "Ekapad Dubey",
+    "AgeYear": 73,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 29,
+    "CaseMasterID": 15,
+    "VictimName": "Ronith Brar",
+    "AgeYear": 67,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 30,
+    "CaseMasterID": 16,
+    "VictimName": "Laksh Basak",
+    "AgeYear": 42,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 31,
+    "CaseMasterID": 16,
+    "VictimName": "Jyoti Nadkarni",
+    "AgeYear": 5,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 32,
+    "CaseMasterID": 17,
+    "VictimName": "Vedika Bir",
+    "AgeYear": 76,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 33,
+    "CaseMasterID": 17,
+    "VictimName": "Leela Gara",
+    "AgeYear": 25,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 34,
+    "CaseMasterID": 18,
+    "VictimName": "Sanya Chad",
+    "AgeYear": 53,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 35,
+    "CaseMasterID": 18,
+    "VictimName": "Tejas Ghose",
+    "AgeYear": 59,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 36,
+    "CaseMasterID": 19,
+    "VictimName": "Anjali Sharaf",
+    "AgeYear": 39,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 37,
+    "CaseMasterID": 19,
+    "VictimName": "Barkha Sarkar",
+    "AgeYear": 73,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 38,
+    "CaseMasterID": 19,
+    "VictimName": "Manbir Chana",
+    "AgeYear": 13,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 39,
+    "CaseMasterID": 20,
+    "VictimName": "Zehaan Buch",
+    "AgeYear": 63,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 40,
+    "CaseMasterID": 21,
+    "VictimName": "Ronith Bhargava",
+    "AgeYear": 67,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 41,
+    "CaseMasterID": 21,
+    "VictimName": "Guneet Aggarwal",
+    "AgeYear": 24,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 42,
+    "CaseMasterID": 21,
+    "VictimName": "Ekalinga Bansal",
+    "AgeYear": 7,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 43,
+    "CaseMasterID": 22,
+    "VictimName": "Harshil Nair",
+    "AgeYear": 39,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 44,
+    "CaseMasterID": 22,
+    "VictimName": "Hiral Bhandari",
+    "AgeYear": 6,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 45,
+    "CaseMasterID": 23,
+    "VictimName": "Waida Bahri",
+    "AgeYear": 68,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 46,
+    "CaseMasterID": 24,
+    "VictimName": "Chavvi Manda",
+    "AgeYear": 68,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 47,
+    "CaseMasterID": 24,
+    "VictimName": "Yashasvi Mahal",
+    "AgeYear": 9,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 48,
+    "CaseMasterID": 25,
+    "VictimName": "Falguni Menon",
+    "AgeYear": 12,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 49,
+    "CaseMasterID": 26,
+    "VictimName": "Deepa Sundaram",
+    "AgeYear": 74,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 50,
+    "CaseMasterID": 27,
+    "VictimName": "Advay Nagar",
+    "AgeYear": 53,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 51,
+    "CaseMasterID": 27,
+    "VictimName": "Chandani Kakar",
+    "AgeYear": 36,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 52,
+    "CaseMasterID": 28,
+    "VictimName": "Guneet Talwar",
+    "AgeYear": 36,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 53,
+    "CaseMasterID": 28,
+    "VictimName": "Bishakha Gala",
+    "AgeYear": 30,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 54,
+    "CaseMasterID": 29,
+    "VictimName": "Sathvik Ranganathan",
+    "AgeYear": 71,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 55,
+    "CaseMasterID": 30,
+    "VictimName": "Triya Chander",
+    "AgeYear": 54,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 56,
+    "CaseMasterID": 30,
+    "VictimName": "Daniel Sane",
+    "AgeYear": 46,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 57,
+    "CaseMasterID": 31,
+    "VictimName": "Sai Mittal",
+    "AgeYear": 75,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 58,
+    "CaseMasterID": 32,
+    "VictimName": "Hemang Sawhney",
+    "AgeYear": 43,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 59,
+    "CaseMasterID": 32,
+    "VictimName": "Lopa Behl",
+    "AgeYear": 11,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 60,
+    "CaseMasterID": 33,
+    "VictimName": "Sarthak Dewan",
+    "AgeYear": 35,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 61,
+    "CaseMasterID": 34,
+    "VictimName": "Laban Madan",
+    "AgeYear": 26,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 62,
+    "CaseMasterID": 35,
+    "VictimName": "Harita Shah",
+    "AgeYear": 36,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 63,
+    "CaseMasterID": 35,
+    "VictimName": "Triya Sehgal",
+    "AgeYear": 79,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 64,
+    "CaseMasterID": 36,
+    "VictimName": "Dipta Suresh",
+    "AgeYear": 24,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 65,
+    "CaseMasterID": 36,
+    "VictimName": "Dayamai Dada",
+    "AgeYear": 36,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 66,
+    "CaseMasterID": 36,
+    "VictimName": "Anmol Chandran",
+    "AgeYear": 48,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 67,
+    "CaseMasterID": 37,
+    "VictimName": "Nirja Krishnamurthy",
+    "AgeYear": 24,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 68,
+    "CaseMasterID": 37,
+    "VictimName": "Chandresh Sunder",
+    "AgeYear": 18,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 69,
+    "CaseMasterID": 38,
+    "VictimName": "Kala Kari",
+    "AgeYear": 76,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 70,
+    "CaseMasterID": 38,
+    "VictimName": "Jairaj Rao",
+    "AgeYear": 61,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 71,
+    "CaseMasterID": 39,
+    "VictimName": "Charan Dara",
+    "AgeYear": 53,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 72,
+    "CaseMasterID": 39,
+    "VictimName": "Triya Kale",
+    "AgeYear": 37,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 73,
+    "CaseMasterID": 39,
+    "VictimName": "Triveni Nori",
+    "AgeYear": 61,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 74,
+    "CaseMasterID": 40,
+    "VictimName": "Zayan Brahmbhatt",
+    "AgeYear": 67,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 75,
+    "CaseMasterID": 40,
+    "VictimName": "Benjamin Natarajan",
+    "AgeYear": 74,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 76,
+    "CaseMasterID": 40,
+    "VictimName": "Eiravati Murthy",
+    "AgeYear": 64,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 77,
+    "CaseMasterID": 41,
+    "VictimName": "Upma Grover",
+    "AgeYear": 75,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 78,
+    "CaseMasterID": 41,
+    "VictimName": "Lopa Ramesh",
+    "AgeYear": 24,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 79,
+    "CaseMasterID": 41,
+    "VictimName": "Gauri Ganguly",
+    "AgeYear": 38,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 80,
+    "CaseMasterID": 42,
+    "VictimName": "Aarnav Naik",
+    "AgeYear": 69,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 81,
+    "CaseMasterID": 43,
+    "VictimName": "Megha Mangat",
+    "AgeYear": 51,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 82,
+    "CaseMasterID": 44,
+    "VictimName": "Maanav Doshi",
+    "AgeYear": 13,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 83,
+    "CaseMasterID": 44,
+    "VictimName": "Frederick Bakshi",
+    "AgeYear": 54,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 84,
+    "CaseMasterID": 44,
+    "VictimName": "Jagvi Hayer",
+    "AgeYear": 68,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 85,
+    "CaseMasterID": 45,
+    "VictimName": "Saumya Bhardwaj",
+    "AgeYear": 46,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 86,
+    "CaseMasterID": 45,
+    "VictimName": "Nilima Rajan",
+    "AgeYear": 19,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 87,
+    "CaseMasterID": 46,
+    "VictimName": "Tanveer Sarkar",
+    "AgeYear": 10,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 88,
+    "CaseMasterID": 47,
+    "VictimName": "Guneet Krishnamurthy",
+    "AgeYear": 30,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 89,
+    "CaseMasterID": 48,
+    "VictimName": "Ishani Mishra",
+    "AgeYear": 9,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 90,
+    "CaseMasterID": 49,
+    "VictimName": "Sara Subramanian",
+    "AgeYear": 67,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 91,
+    "CaseMasterID": 49,
+    "VictimName": "Jasmit Mannan",
+    "AgeYear": 80,
+    "GenderID": 2,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 92,
+    "CaseMasterID": 50,
+    "VictimName": "Irya More",
+    "AgeYear": 14,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 93,
+    "CaseMasterID": 51,
+    "VictimName": "Vrinda Bhatia",
+    "AgeYear": 67,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 94,
+    "CaseMasterID": 52,
+    "VictimName": "Sanya Gill",
+    "AgeYear": 12,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 95,
+    "CaseMasterID": 52,
+    "VictimName": "Lopa Aggarwal",
+    "AgeYear": 58,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 96,
+    "CaseMasterID": 52,
+    "VictimName": "Kalpit Dubey",
+    "AgeYear": 12,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 97,
+    "CaseMasterID": 53,
+    "VictimName": "Logan Bhagat",
+    "AgeYear": 14,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 98,
+    "CaseMasterID": 54,
+    "VictimName": "Qarin Cheema",
+    "AgeYear": 71,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 99,
+    "CaseMasterID": 55,
+    "VictimName": "Elijah Bala",
+    "AgeYear": 73,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 100,
+    "CaseMasterID": 56,
+    "VictimName": "Manan Johal",
+    "AgeYear": 36,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 101,
+    "CaseMasterID": 56,
+    "VictimName": "Damyanti Gopal",
+    "AgeYear": 27,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 102,
+    "CaseMasterID": 56,
+    "VictimName": "Gagan Patla",
+    "AgeYear": 58,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 103,
+    "CaseMasterID": 57,
+    "VictimName": "Ridhi Subramaniam",
+    "AgeYear": 78,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 104,
+    "CaseMasterID": 57,
+    "VictimName": "Meghana Patla",
+    "AgeYear": 59,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 105,
+    "CaseMasterID": 57,
+    "VictimName": "Nakul Suresh",
+    "AgeYear": 28,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 106,
+    "CaseMasterID": 58,
+    "VictimName": "Advika Anand",
+    "AgeYear": 25,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 107,
+    "CaseMasterID": 58,
+    "VictimName": "Vincent Wali",
+    "AgeYear": 61,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 108,
+    "CaseMasterID": 59,
+    "VictimName": "Eshana Dada",
+    "AgeYear": 46,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 109,
+    "CaseMasterID": 59,
+    "VictimName": "Radha Virk",
+    "AgeYear": 60,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 110,
+    "CaseMasterID": 59,
+    "VictimName": "Theodore Iyer",
+    "AgeYear": 35,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 111,
+    "CaseMasterID": 60,
+    "VictimName": "Chakrika Apte",
+    "AgeYear": 75,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 112,
+    "CaseMasterID": 60,
+    "VictimName": "Divya Manne",
+    "AgeYear": 62,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 113,
+    "CaseMasterID": 61,
+    "VictimName": "Sachi Johal",
+    "AgeYear": 9,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 114,
+    "CaseMasterID": 62,
+    "VictimName": "Garima Dhillon",
+    "AgeYear": 22,
+    "GenderID": 2,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 115,
+    "CaseMasterID": 62,
+    "VictimName": "Girik Baral",
+    "AgeYear": 33,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 116,
+    "CaseMasterID": 62,
+    "VictimName": "Shivansh Randhawa",
+    "AgeYear": 7,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 117,
+    "CaseMasterID": 63,
+    "VictimName": "Anmol Raman",
+    "AgeYear": 70,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 118,
+    "CaseMasterID": 63,
+    "VictimName": "Vidhi Natarajan",
+    "AgeYear": 78,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 119,
+    "CaseMasterID": 63,
+    "VictimName": "Balveer Mohanty",
+    "AgeYear": 63,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 120,
+    "CaseMasterID": 64,
+    "VictimName": "Vinaya Dyal",
+    "AgeYear": 51,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 121,
+    "CaseMasterID": 64,
+    "VictimName": "Sanya Shroff",
+    "AgeYear": 37,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 122,
+    "CaseMasterID": 65,
+    "VictimName": "Siya Batta",
+    "AgeYear": 77,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 123,
+    "CaseMasterID": 65,
+    "VictimName": "Yashasvi Dayal",
+    "AgeYear": 46,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 124,
+    "CaseMasterID": 66,
+    "VictimName": "Oeshi Menon",
+    "AgeYear": 78,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 125,
+    "CaseMasterID": 66,
+    "VictimName": "Ikbal Boase",
+    "AgeYear": 43,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 126,
+    "CaseMasterID": 66,
+    "VictimName": "Radha Venkatesh",
+    "AgeYear": 78,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 127,
+    "CaseMasterID": 67,
+    "VictimName": "Vrinda Nadkarni",
+    "AgeYear": 47,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 128,
+    "CaseMasterID": 68,
+    "VictimName": "Bachittar Barman",
+    "AgeYear": 58,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 129,
+    "CaseMasterID": 68,
+    "VictimName": "Owen Bhat",
+    "AgeYear": 34,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 130,
+    "CaseMasterID": 69,
+    "VictimName": "Anmol Bhakta",
+    "AgeYear": 6,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 131,
+    "CaseMasterID": 69,
+    "VictimName": "Chaaya Ray",
+    "AgeYear": 53,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 132,
+    "CaseMasterID": 69,
+    "VictimName": "Vamakshi Balasubramanian",
+    "AgeYear": 10,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 133,
+    "CaseMasterID": 70,
+    "VictimName": "Advaith Kata",
+    "AgeYear": 46,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 134,
+    "CaseMasterID": 71,
+    "VictimName": "Zarna Nadig",
+    "AgeYear": 11,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 135,
+    "CaseMasterID": 72,
+    "VictimName": "Nidra Bansal",
+    "AgeYear": 62,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 136,
+    "CaseMasterID": 72,
+    "VictimName": "Qasim Hegde",
+    "AgeYear": 16,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 137,
+    "CaseMasterID": 73,
+    "VictimName": "Falan Salvi",
+    "AgeYear": 23,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 138,
+    "CaseMasterID": 73,
+    "VictimName": "Wridesh Manda",
+    "AgeYear": 65,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 139,
+    "CaseMasterID": 74,
+    "VictimName": "Samarth Mody",
+    "AgeYear": 56,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 140,
+    "CaseMasterID": 74,
+    "VictimName": "Oliver Mittal",
+    "AgeYear": 69,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 141,
+    "CaseMasterID": 74,
+    "VictimName": "Aachal Dutt",
+    "AgeYear": 21,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 142,
+    "CaseMasterID": 75,
+    "VictimName": "Upma Boase",
+    "AgeYear": 67,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 143,
+    "CaseMasterID": 76,
+    "VictimName": "Qasim Sehgal",
+    "AgeYear": 76,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 144,
+    "CaseMasterID": 77,
+    "VictimName": "Chatura Krishnamurthy",
+    "AgeYear": 36,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 145,
+    "CaseMasterID": 77,
+    "VictimName": "Janani Varghese",
+    "AgeYear": 60,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 146,
+    "CaseMasterID": 77,
+    "VictimName": "Yatan Mannan",
+    "AgeYear": 78,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 147,
+    "CaseMasterID": 78,
+    "VictimName": "Bhavini Singh",
+    "AgeYear": 59,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 148,
+    "CaseMasterID": 78,
+    "VictimName": "Meghana Baral",
+    "AgeYear": 46,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 149,
+    "CaseMasterID": 79,
+    "VictimName": "Xavier Parekh",
+    "AgeYear": 44,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 150,
+    "CaseMasterID": 80,
+    "VictimName": "Chandresh Chakraborty",
+    "AgeYear": 61,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 151,
+    "CaseMasterID": 80,
+    "VictimName": "Megha Baria",
+    "AgeYear": 10,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 152,
+    "CaseMasterID": 80,
+    "VictimName": "Zansi Ram",
+    "AgeYear": 52,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 153,
+    "CaseMasterID": 81,
+    "VictimName": "Umang Pingle",
+    "AgeYear": 19,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 154,
+    "CaseMasterID": 82,
+    "VictimName": "Benjamin Mane",
+    "AgeYear": 23,
+    "GenderID": 2,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 155,
+    "CaseMasterID": 82,
+    "VictimName": "Mugdha Khanna",
+    "AgeYear": 19,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 156,
+    "CaseMasterID": 82,
+    "VictimName": "Barkha Halder",
+    "AgeYear": 7,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 157,
+    "CaseMasterID": 83,
+    "VictimName": "Gabriel Mishra",
+    "AgeYear": 32,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 158,
+    "CaseMasterID": 83,
+    "VictimName": "Ekaraj Dayal",
+    "AgeYear": 38,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 159,
+    "CaseMasterID": 83,
+    "VictimName": "Meera Sama",
+    "AgeYear": 23,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 160,
+    "CaseMasterID": 84,
+    "VictimName": "Ishaan Karpe",
+    "AgeYear": 53,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 161,
+    "CaseMasterID": 85,
+    "VictimName": "Abhimanyu Lad",
+    "AgeYear": 10,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 162,
+    "CaseMasterID": 85,
+    "VictimName": "Urvi Dave",
+    "AgeYear": 41,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 163,
+    "CaseMasterID": 85,
+    "VictimName": "Krishna Behl",
+    "AgeYear": 39,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 164,
+    "CaseMasterID": 86,
+    "VictimName": "Tejas Vyas",
+    "AgeYear": 13,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 165,
+    "CaseMasterID": 87,
+    "VictimName": "Alka Suri",
+    "AgeYear": 51,
+    "GenderID": 1,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 166,
+    "CaseMasterID": 87,
+    "VictimName": "Mason Balay",
+    "AgeYear": 54,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 167,
+    "CaseMasterID": 87,
+    "VictimName": "Luke Chander",
+    "AgeYear": 70,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 168,
+    "CaseMasterID": 88,
+    "VictimName": "Bimala Bhat",
+    "AgeYear": 67,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 169,
+    "CaseMasterID": 88,
+    "VictimName": "Kalpit Ghose",
+    "AgeYear": 28,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 170,
+    "CaseMasterID": 89,
+    "VictimName": "Vincent Bhagat",
+    "AgeYear": 76,
+    "GenderID": 3,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 171,
+    "CaseMasterID": 89,
+    "VictimName": "Champak Srinivas",
+    "AgeYear": 36,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 172,
+    "CaseMasterID": 90,
+    "VictimName": "Manan Shah",
+    "AgeYear": 55,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 173,
+    "CaseMasterID": 90,
+    "VictimName": "Ekapad Chacko",
+    "AgeYear": 49,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 174,
+    "CaseMasterID": 91,
+    "VictimName": "Ganga Chadha",
+    "AgeYear": 43,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 175,
+    "CaseMasterID": 91,
+    "VictimName": "Divya Tella",
+    "AgeYear": 69,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 176,
+    "CaseMasterID": 91,
+    "VictimName": "Aayush Narayanan",
+    "AgeYear": 37,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 177,
+    "CaseMasterID": 92,
+    "VictimName": "Yug Sangha",
+    "AgeYear": 76,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 178,
+    "CaseMasterID": 93,
+    "VictimName": "Udarsh Maharaj",
+    "AgeYear": 55,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 179,
+    "CaseMasterID": 93,
+    "VictimName": "Chaman Luthra",
+    "AgeYear": 53,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 180,
+    "CaseMasterID": 94,
+    "VictimName": "Arunima Sharma",
+    "AgeYear": 34,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 181,
+    "CaseMasterID": 94,
+    "VictimName": "Harinakshi Chanda",
+    "AgeYear": 24,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 182,
+    "CaseMasterID": 94,
+    "VictimName": "Balhaar Choudhury",
+    "AgeYear": 47,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 183,
+    "CaseMasterID": 95,
+    "VictimName": "Yahvi Sandhu",
+    "AgeYear": 22,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 184,
+    "CaseMasterID": 96,
+    "VictimName": "Vrishti Mannan",
+    "AgeYear": 22,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 185,
+    "CaseMasterID": 97,
+    "VictimName": "Ishaan Dyal",
+    "AgeYear": 22,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 186,
+    "CaseMasterID": 97,
+    "VictimName": "Jagat Boase",
+    "AgeYear": 23,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 187,
+    "CaseMasterID": 97,
+    "VictimName": "Kamala Aggarwal",
+    "AgeYear": 25,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 188,
+    "CaseMasterID": 98,
+    "VictimName": "Vaishnavi Panchal",
+    "AgeYear": 20,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 189,
+    "CaseMasterID": 98,
+    "VictimName": "Dalaja Nagarajan",
+    "AgeYear": 23,
+    "GenderID": 3,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 190,
+    "CaseMasterID": 98,
+    "VictimName": "Ekansh Sahni",
+    "AgeYear": 45,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 191,
+    "CaseMasterID": 99,
+    "VictimName": "Xiti Bera",
+    "AgeYear": 61,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 192,
+    "CaseMasterID": 99,
+    "VictimName": "Aarush Basu",
+    "AgeYear": 40,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 193,
+    "CaseMasterID": 100,
+    "VictimName": "Widisha More",
+    "AgeYear": 21,
+    "GenderID": 1,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 194,
+    "CaseMasterID": 101,
+    "VictimName": "Vansha Grewal",
+    "AgeYear": 39,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 195,
+    "CaseMasterID": 101,
+    "VictimName": "Shivani Master",
+    "AgeYear": 34,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 196,
+    "CaseMasterID": 101,
+    "VictimName": "Upkaar Yadav",
+    "AgeYear": 8,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 197,
+    "CaseMasterID": 102,
+    "VictimName": "Gabriel Bal",
+    "AgeYear": 22,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 198,
+    "CaseMasterID": 102,
+    "VictimName": "Nitara Taneja",
+    "AgeYear": 65,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 199,
+    "CaseMasterID": 103,
+    "VictimName": "Qabil Kumar",
+    "AgeYear": 54,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 200,
+    "CaseMasterID": 104,
+    "VictimName": "Rishi Biswas",
+    "AgeYear": 29,
+    "GenderID": 1,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 201,
+    "CaseMasterID": 105,
+    "VictimName": "Lakshit Upadhyay",
+    "AgeYear": 39,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 202,
+    "CaseMasterID": 106,
+    "VictimName": "Lipika Tara",
+    "AgeYear": 30,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 203,
+    "CaseMasterID": 106,
+    "VictimName": "Ansh Vora",
+    "AgeYear": 61,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 204,
+    "CaseMasterID": 106,
+    "VictimName": "Gaurika Bath",
+    "AgeYear": 46,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 205,
+    "CaseMasterID": 107,
+    "VictimName": "Naveen Bhandari",
+    "AgeYear": 56,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 206,
+    "CaseMasterID": 107,
+    "VictimName": "Karan Sharaf",
+    "AgeYear": 53,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 207,
+    "CaseMasterID": 108,
+    "VictimName": "Atharv Chad",
+    "AgeYear": 78,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 208,
+    "CaseMasterID": 108,
+    "VictimName": "Daksha Varughese",
+    "AgeYear": 9,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 209,
+    "CaseMasterID": 108,
+    "VictimName": "Ekalinga Mand",
+    "AgeYear": 63,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 210,
+    "CaseMasterID": 109,
+    "VictimName": "Aryan Hegde",
+    "AgeYear": 71,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 211,
+    "CaseMasterID": 110,
+    "VictimName": "Vasatika Behl",
+    "AgeYear": 10,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 212,
+    "CaseMasterID": 110,
+    "VictimName": "Fariq Mani",
+    "AgeYear": 11,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 213,
+    "CaseMasterID": 110,
+    "VictimName": "Jack Apte",
+    "AgeYear": 55,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 214,
+    "CaseMasterID": 111,
+    "VictimName": "Chatura Khalsa",
+    "AgeYear": 64,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 215,
+    "CaseMasterID": 111,
+    "VictimName": "Saksham Kurian",
+    "AgeYear": 11,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 216,
+    "CaseMasterID": 112,
+    "VictimName": "Jeremiah Tella",
+    "AgeYear": 64,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 217,
+    "CaseMasterID": 113,
+    "VictimName": "Abdul Badal",
+    "AgeYear": 69,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 218,
+    "CaseMasterID": 113,
+    "VictimName": "Frederick Dalal",
+    "AgeYear": 79,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 219,
+    "CaseMasterID": 113,
+    "VictimName": "Champak Gulati",
+    "AgeYear": 55,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 220,
+    "CaseMasterID": 114,
+    "VictimName": "Hardik Goda",
+    "AgeYear": 27,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 221,
+    "CaseMasterID": 115,
+    "VictimName": "Anya Singhal",
+    "AgeYear": 30,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 222,
+    "CaseMasterID": 115,
+    "VictimName": "Zaid Taneja",
+    "AgeYear": 46,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 223,
+    "CaseMasterID": 115,
+    "VictimName": "Anay Jain",
+    "AgeYear": 25,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 224,
+    "CaseMasterID": 116,
+    "VictimName": "Saksham Sarna",
+    "AgeYear": 19,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 225,
+    "CaseMasterID": 117,
+    "VictimName": "Hemang Dube",
+    "AgeYear": 15,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 226,
+    "CaseMasterID": 117,
+    "VictimName": "Suhani Rout",
+    "AgeYear": 70,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 227,
+    "CaseMasterID": 118,
+    "VictimName": "Pratyush Cherian",
+    "AgeYear": 75,
+    "GenderID": 2,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 228,
+    "CaseMasterID": 118,
+    "VictimName": "Chakrika Chhabra",
+    "AgeYear": 26,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 229,
+    "CaseMasterID": 119,
+    "VictimName": "Gaurika Brar",
+    "AgeYear": 24,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 230,
+    "CaseMasterID": 119,
+    "VictimName": "Timothy Tandon",
+    "AgeYear": 27,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 231,
+    "CaseMasterID": 119,
+    "VictimName": "Bhavani Khosla",
+    "AgeYear": 44,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 232,
+    "CaseMasterID": 120,
+    "VictimName": "Mahika Merchant",
+    "AgeYear": 41,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 233,
+    "CaseMasterID": 120,
+    "VictimName": "Tristan Kurian",
+    "AgeYear": 21,
+    "GenderID": 1,
+    "VictimPolice": "1"
+  },
+  {
+    "VictimMasterID": 234,
+    "CaseMasterID": 121,
+    "VictimName": "Bachittar Rau",
+    "AgeYear": 6,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 235,
+    "CaseMasterID": 121,
+    "VictimName": "Logan Keer",
+    "AgeYear": 68,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 236,
+    "CaseMasterID": 122,
+    "VictimName": "Waida Chhabra",
+    "AgeYear": 68,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 237,
+    "CaseMasterID": 122,
+    "VictimName": "Vanya Hegde",
+    "AgeYear": 65,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 238,
+    "CaseMasterID": 122,
+    "VictimName": "Advik Tara",
+    "AgeYear": 15,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 239,
+    "CaseMasterID": 123,
+    "VictimName": "Viraj Prashad",
+    "AgeYear": 75,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 240,
+    "CaseMasterID": 124,
+    "VictimName": "Varenya Ahluwalia",
+    "AgeYear": 31,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 241,
+    "CaseMasterID": 124,
+    "VictimName": "Harrison Gaba",
+    "AgeYear": 12,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 242,
+    "CaseMasterID": 124,
+    "VictimName": "Veda Sahota",
+    "AgeYear": 23,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 243,
+    "CaseMasterID": 125,
+    "VictimName": "Irya Bajaj",
+    "AgeYear": 43,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 244,
+    "CaseMasterID": 125,
+    "VictimName": "Qasim Mann",
+    "AgeYear": 11,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 245,
+    "CaseMasterID": 125,
+    "VictimName": "Leela Vaidya",
+    "AgeYear": 27,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 246,
+    "CaseMasterID": 126,
+    "VictimName": "Utkarsh Goel",
+    "AgeYear": 78,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 247,
+    "CaseMasterID": 126,
+    "VictimName": "Liam Varughese",
+    "AgeYear": 63,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 248,
+    "CaseMasterID": 126,
+    "VictimName": "Yuvraj Som",
+    "AgeYear": 9,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 249,
+    "CaseMasterID": 127,
+    "VictimName": "Chaitaly Biswas",
+    "AgeYear": 52,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 250,
+    "CaseMasterID": 127,
+    "VictimName": "Dakshesh Chander",
+    "AgeYear": 59,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 251,
+    "CaseMasterID": 128,
+    "VictimName": "Nachiket Sachdev",
+    "AgeYear": 22,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 252,
+    "CaseMasterID": 128,
+    "VictimName": "Mitesh Sur",
+    "AgeYear": 40,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 253,
+    "CaseMasterID": 129,
+    "VictimName": "Yashica Borah",
+    "AgeYear": 31,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 254,
+    "CaseMasterID": 129,
+    "VictimName": "Chanchal Nair",
+    "AgeYear": 12,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 255,
+    "CaseMasterID": 129,
+    "VictimName": "Oeshi Kala",
+    "AgeYear": 72,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 256,
+    "CaseMasterID": 130,
+    "VictimName": "Siya Narang",
+    "AgeYear": 41,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 257,
+    "CaseMasterID": 130,
+    "VictimName": "Hiral Chaudhari",
+    "AgeYear": 45,
+    "GenderID": 2,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 258,
+    "CaseMasterID": 130,
+    "VictimName": "Sanya Purohit",
+    "AgeYear": 50,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 259,
+    "CaseMasterID": 131,
+    "VictimName": "Devansh Ramesh",
+    "AgeYear": 71,
+    "GenderID": 3,
+    "VictimPolice": "0"
+  },
+  {
+    "VictimMasterID": 260,
+    "CaseMasterID": 131,
+    "VictimName": "Urvashi Chacko",
+    "AgeYear": 68,
+    "GenderID": 1,
+    "VictimPolice": "0"
+  }
+]

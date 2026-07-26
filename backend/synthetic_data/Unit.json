@@ -1,0 +1,182 @@
+[
+  {
+    "UnitID": 1,
+    "UnitName": "Bangalore City Police Station",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 1,
+    "Active": 1
+  },
+  {
+    "UnitID": 2,
+    "UnitName": "Bangalore Rural PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 1,
+    "Active": 1
+  },
+  {
+    "UnitID": 3,
+    "UnitName": "Bangalore Traffic PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 1,
+    "Active": 1
+  },
+  {
+    "UnitID": 4,
+    "UnitName": "Mysuru City Police Station",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 2,
+    "Active": 1
+  },
+  {
+    "UnitID": 5,
+    "UnitName": "Mysuru Rural PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 2,
+    "Active": 1
+  },
+  {
+    "UnitID": 6,
+    "UnitName": "Mysuru Traffic PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 2,
+    "Active": 1
+  },
+  {
+    "UnitID": 7,
+    "UnitName": "Belagavi City Police Station",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 3,
+    "Active": 1
+  },
+  {
+    "UnitID": 8,
+    "UnitName": "Belagavi Rural PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 3,
+    "Active": 1
+  },
+  {
+    "UnitID": 9,
+    "UnitName": "Belagavi Traffic PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 3,
+    "Active": 1
+  },
+  {
+    "UnitID": 10,
+    "UnitName": "Hubli-Dharwad City Police Station",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 4,
+    "Active": 1
+  },
+  {
+    "UnitID": 11,
+    "UnitName": "Hubli-Dharwad Rural PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 4,
+    "Active": 1
+  },
+  {
+    "UnitID": 12,
+    "UnitName": "Hubli-Dharwad Traffic PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 4,
+    "Active": 1
+  },
+  {
+    "UnitID": 13,
+    "UnitName": "Mangaluru City Police Station",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 5,
+    "Active": 1
+  },
+  {
+    "UnitID": 14,
+    "UnitName": "Mangaluru Rural PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 5,
+    "Active": 1
+  },
+  {
+    "UnitID": 15,
+    "UnitName": "Mangaluru Traffic PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 5,
+    "Active": 1
+  },
+  {
+    "UnitID": 16,
+    "UnitName": "Kalaburagi City Police Station",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 6,
+    "Active": 1
+  },
+  {
+    "UnitID": 17,
+    "UnitName": "Kalaburagi Rural PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 6,
+    "Active": 1
+  },
+  {
+    "UnitID": 18,
+    "UnitName": "Kalaburagi Traffic PS",
+    "TypeID": 1,
+    "ParentUnit": null,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 6,
+    "Active": 1
+  }
+]

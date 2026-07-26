@@ -1,0 +1,38 @@
+[
+  {
+    "ActCode": "IPC",
+    "ActDescription": "Indian Penal Code, 1860",
+    "ShortName": "IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "ActDescription": "Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "ShortName": "NDPS",
+    "Active": 1
+  },
+  {
+    "ActCode": "IT",
+    "ActDescription": "Information Technology Act, 2000",
+    "ShortName": "IT Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "MV",
+    "ActDescription": "Motor Vehicles Act, 1988",
+    "ShortName": "MV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "DV",
+    "ActDescription": "Protection of Women from Domestic Violence Act, 2005",
+    "ShortName": "DV Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "POCSO",
+    "ActDescription": "Protection of Children from Sexual Offences Act, 2012",
+    "ShortName": "POCSO",
+    "Active": 1
+  }
+]
