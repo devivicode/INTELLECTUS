@@ -3,6 +3,7 @@ import { MapPin, Calendar, User, FileText, Shield, Clock, ChevronLeft, Download,
 import type { FIR, Evidence } from '../data/mockData'
 import type { Page } from '../components/Layout'
 import { toast, downloadJSON, copyToClipboard } from '../utils/toast'
+import { exportFIRToPDF } from '../utils/pdfExport'
 
 interface CaseDetailsProps { fir: FIR | null; onNavigate: (page: Page, data?: unknown) => void; darkMode: boolean }
 
@@ -90,6 +91,12 @@ export default function CaseDetails({ fir, onNavigate, darkMode }: CaseDetailsPr
     downloadJSON(safeFir, `${safeFir.crimeNumber.replace(/[\/ ]/g, '_')}.json`)
   }
 
+  function handlePdfExport() {
+    if (!exportFIRToPDF(safeFir)) {
+      toast('Allow pop-ups to export this case as a PDF', 'warning')
+    }
+  }
+
   async function handleShare() {
     const url = `${window.location.origin}?case=${safeFir.crimeNumber}`
     await copyToClipboard(`${safeFir.crimeNumber} | ${safeFir.crimeHead} | ${safeFir.policeStation}\n${url}`)
@@ -140,6 +147,10 @@ export default function CaseDetails({ fir, onNavigate, darkMode }: CaseDetailsPr
             </div>
           </div>
           <div className="flex gap-2">
+            <button onClick={handlePdfExport}
+              style={{ display: 'flex', alignItems: 'center', gap: 6, padding: '7px 14px', border: 'none', borderRadius: 8, background: '#2563EB', cursor: 'pointer', fontSize: 12, color: '#fff', fontWeight: 600 }}>
+              <Download size={13} /> Export PDF
+            </button>
             <button onClick={handleExport}
               style={{ display: 'flex', alignItems: 'center', gap: 6, padding: '7px 14px', border: `1px solid ${c('#E2E8F0', '#334155')}`, borderRadius: 8, background: 'none', cursor: 'pointer', fontSize: 12, color: '#64748B' }}>
               <Download size={13} /> Export JSON

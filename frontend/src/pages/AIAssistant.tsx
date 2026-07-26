@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { Send, Brain, Loader, Copy, ThumbsUp, ThumbsDown, FileText, Search, RotateCcw, Sparkles, ChevronRight, Download, AlertCircle } from 'lucide-react'
 import { copyToClipboard, toast } from '../utils/toast'
+import { printHTMLToPDF } from '../utils/pdfExport'
 import { sendChatMessage, clearConversation, getFIR, getCriminal, getOverview } from '../utils/api'
 import type { Citation } from '../utils/api'
 import { adaptBackendFIR } from '../utils/adapters'
@@ -17,6 +18,10 @@ interface Message {
   intentSource?: string
   feedback?: 'up' | 'down' | null
 }
+
+// This survives component unmounts while the SPA remains open (for example, navigating to
+// Search or a cited case), but intentionally resets on a full browser refresh.
+let inPageConversation: Message[] | null = null
 
 const SUGGESTIONS = [
   'Summarize a recent murder case in Bengaluru Urban',
@@ -70,7 +75,7 @@ function newSessionId() {
 }
 
 export default function AIAssistant({ darkMode, onNavigate, lang = 'en' }: AIAssistantProps) {
-  const [messages, setMessages] = useState<Message[]>([{ role: 'ai', content: WELCOME, time: formatTime() }])
+  const [messages, setMessages] = useState<Message[]>(() => inPageConversation ?? [{ role: 'ai', content: WELCOME, time: formatTime() }])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [citationLoading, setCitationLoading] = useState<string | null>(null)
@@ -81,6 +86,7 @@ export default function AIAssistant({ darkMode, onNavigate, lang = 'en' }: AIAss
   const c = (l: string, d: string) => darkMode ? d : l
 
   useEffect(() => { sessionStorage.setItem('intellectus_session', sessionRef.current) }, [])
+  useEffect(() => { inPageConversation = messages }, [messages])
   useEffect(() => { endRef.current?.scrollIntoView({ behavior: 'smooth' }) }, [messages])
   useEffect(() => { getOverview().then(data => setRecentCases(data.recent)).catch(() => {}) }, [])
 
@@ -186,13 +192,9 @@ export default function AIAssistant({ darkMode, onNavigate, lang = 'en' }: AIAss
 </body>
 </html>`
 
-    const blob = new Blob([html], { type: 'text/html' })
-    const url = URL.createObjectURL(blob)
-    const a = document.createElement('a')
-    a.href = url
-    a.download = `AI_Conversation_${new Date().toISOString().slice(0, 10)}.html`
-    a.click()
-    URL.revokeObjectURL(url)
+    if (!printHTMLToPDF(html)) {
+      toast('Allow pop-ups to export this conversation as a PDF', 'warning')
+    }
   }
 
   return (
